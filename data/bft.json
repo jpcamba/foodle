@@ -1,0 +1,2756 @@
+{
+   "BFT":[
+      {
+         "operator":"Silangan Lias MPC",
+         "operator_address":"Brgy. Silangan Lias, Barlig, Mountain Province",
+         "date_established":"2/10/2010",
+         "families_served":"-",
+         "Longtitude":121.13845,
+         "Latitude":17.14557
+      },
+      {
+         "operator":"Eastern Bontoc National Agricultural and Vocational High School (EBNAVHS) Teachers and Employees Consumers Cooperative",
+         "operator_address":"Brgy. Lingoy, Barlig, Mountain Province",
+         "date_established":"2/10/2010",
+         "families_served":30,
+         "Longtitude":121.09288,
+         "Latitude":17.05371
+      },
+      {
+         "operator":"Saint Williams MPC",
+         "operator_address":"Brgy. Butigue, Paracelis, Mountain Province",
+         "date_established":"3/12/2012",
+         "families_served":"-",
+         "Longtitude":121.43899,
+         "Latitude":17.10943
+      },
+      {
+         "operator":"Silangan Lias MPC",
+         "operator_address":"Brgy. Silangan Lias, Barlig, Mountain Province",
+         "date_established":"2/10/2010",
+         "families_served":350,
+         "Longtitude":121.13845,
+         "Latitude":17.14557
+      },
+      {
+         "operator":"BLGU/Bansa Balicog FarmersÍ Association",
+         "operator_address":"Monamon Norte, Bauko, Mountain Province",
+         "date_established":"9/21/2011",
+         "families_served":500,
+         "Longtitude":120.88858,
+         "Latitude":16.90742
+      },
+      {
+         "operator":"Bacdangan MPC",
+         "operator_address":"Brgy. Sinto, Bauko, Mountain Province",
+         "date_established":"4/17/2012",
+         "families_served":"-",
+         "Longtitude":120.86553,
+         "Latitude":16.85567
+      },
+      {
+         "operator":"Zumayngan Indigenous Farmers Association and Development, Inc.",
+         "operator_address":"Brgy. Talubin, Bontoc, Mountain Province",
+         "date_established":"7/1/2011",
+         "families_served":450,
+         "Longtitude":120.9955,
+         "Latitude":17.06024
+      },
+      {
+         "operator":"Kapangan Central Consumers Cooperative",
+         "operator_address":"Central, Kapangan, Benguet",
+         "date_established":"12/17/2009",
+         "families_served":337,
+         "Longtitude":120.59687,
+         "Latitude":16.57519
+      },
+      {
+         "operator":"Sagubo MPC",
+         "operator_address":"Sitio Landing, Brgy. Sagubo, Kapangan, Benguet",
+         "date_established":"12/17/2009",
+         "families_served":319,
+         "Longtitude":120.55141,
+         "Latitude":16.59774
+      },
+      {
+         "operator":"Gadang ARC MPC",
+         "operator_address":"Keyang, Gadang, kapangan, Benguet",
+         "date_established":"9/16/2008",
+         "families_served":312,
+         "Longtitude":120.58175,
+         "Latitude":16.59553
+      },
+      {
+         "operator":"San Ramon MPC",
+         "operator_address":"Brgy. San Ramon West, Manabo, Abra",
+         "date_established":"3/1/2009",
+         "families_served":3910,
+         "Longtitude":120.66919,
+         "Latitude":17.39829
+      },
+      {
+         "operator":"Green Gold RIC",
+         "operator_address":"Twin Peaks, Tuba, Benguet",
+         "date_established":"1/27/2010",
+         "families_served":1799,
+         "Longtitude":120.57201,
+         "Latitude":16.2782
+      },
+      {
+         "operator":"Pagala West WomenÍs Association",
+         "operator_address":"Brgy. Pagala, Bucay, Abra",
+         "date_established":"12/27/2011",
+         "families_served":350,
+         "Longtitude":120.70312,
+         "Latitude":17.57332
+      },
+      {
+         "operator":"Kayabang MPC",
+         "operator_address":"Monglo, Bayabas, Sablan, Benguet",
+         "date_established":"1/27/2010",
+         "families_served":135,
+         "Longtitude":120.50109,
+         "Latitude":16.47754
+      },
+      {
+         "operator":"MLGU",
+         "operator_address":"Brgy. Cabaruan, Danglas, Abra",
+         "date_established":"7/10/2008",
+         "families_served":200,
+         "Longtitude":120.66915,
+         "Latitude":17.70552
+      },
+      {
+         "operator":"Timpuyog Ti  Inna RIC",
+         "operator_address":"Brgy. Salnec, Bucay, Abra",
+         "date_established":"4/12/2012",
+         "families_served":"-",
+         "Longtitude":120.64271,
+         "Latitude":17.50818
+      },
+      {
+         "operator":"Brgy. Banengbeng Bagsakan Consumers Cooperative",
+         "operator_address":"Brgy. Banengbeng, Sablan, Benguet",
+         "date_established":"1/1/2010",
+         "families_served":210,
+         "Longtitude":120.55967,
+         "Latitude":16.494
+      },
+      {
+         "operator":"Luba WomenÍs Federation for Peace and Development",
+         "operator_address":"Poblacion, Luba, Abra",
+         "date_established":"6/9/2010",
+         "families_served":1196,
+         "Longtitude":120.7167,
+         "Latitude":17.2878
+      },
+      {
+         "operator":"LGU",
+         "operator_address":"Brgy. Poblacion, Natonin, Mountain Province",
+         "date_established":"2/19/2009",
+         "families_served":1316,
+         "Longtitude":121.40226,
+         "Latitude":17.21708
+      },
+      {
+         "operator":"Gusaran MPC",
+         "operator_address":"Gusaran, Kabayan, Benguet",
+         "date_established":"12/1/2010",
+         "families_served":288,
+         "Longtitude":120.83128,
+         "Latitude":16.65253
+      },
+      {
+         "operator":"BLGU",
+         "operator_address":"Brgy. Alunogan, Natonin, Mountain Province",
+         "date_established":"2/15/2012",
+         "families_served":425,
+         "Longtitude":121.26861,
+         "Latitude":17.07822
+      },
+      {
+         "operator":"LGU-Adaoay",
+         "operator_address":"Kinejang, Adaoay, Kabayan, Benguet",
+         "date_established":"12/2/2010",
+         "families_served":130,
+         "Longtitude":120.83428,
+         "Latitude":16.57599
+      },
+      {
+         "operator":"Tubo CLC-ARB MPC",
+         "operator_address":"Brgy. Supo, Tubo, Abra",
+         "date_established":"6/16/2010",
+         "families_served":4353,
+         "Longtitude":120.6832,
+         "Latitude":17.26125
+      },
+      {
+         "operator":"Dagopan MPC",
+         "operator_address":"Brgy. Poblacion, Natonin, Mountain Province",
+         "date_established":"5/1/2011",
+         "families_served":1316,
+         "Longtitude":121.40226,
+         "Latitude":17.217079
+      },
+      {
+         "operator":"BLGU",
+         "operator_address":"Brgy. Caba, Lagawe, Ifugao",
+         "date_established":"3/10/2009",
+         "families_served":465,
+         "Longtitude":121.13942,
+         "Latitude":16.78875
+      },
+      {
+         "operator":"Bashoy Farmers Association Consumers Cooperative",
+         "operator_address":"Lebeng, Bashoy, Kabayan, Benguet",
+         "date_established":"3/15/2012",
+         "families_served":963,
+         "Longtitude":120.84783,
+         "Latitude":16.57645
+      },
+      {
+         "operator":"Balococ,  Cashet, Tabu, Langag MPC",
+         "operator_address":"Balococ, Dalupirip, Itogon, Benguet",
+         "date_established":"6/17/2010",
+         "families_served":500,
+         "Longtitude":120.72385,
+         "Latitude":16.34302
+      },
+      {
+         "operator":"Municipality of Pilar Officials and Employees MPC",
+         "operator_address":"Pilar Municipal Hall Annex, Pilar, Abra",
+         "date_established":"7/9/2008",
+         "families_served":300,
+         "Longtitude":-47.79196,
+         "Latitude":-23.78499
+      },
+      {
+         "operator":"Itogon Government Employees MPC",
+         "operator_address":"Poblacion, Itogon, Benguet",
+         "date_established":"7/27/2010",
+         "families_served":255,
+         "Longtitude":120.69393,
+         "Latitude":16.41047
+      },
+      {
+         "operator":"MLGU",
+         "operator_address":"Brgy. 3 Poblacion, Dolores, Eastern Samar",
+         "date_established":"-",
+         "families_served":"-",
+         "Longtitude":125.44862,
+         "Latitude":11.12132
+      },
+      {
+         "operator":"San Roque Farmers and Displaced Workers Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Forest Drive Village No.1, San Roque, Bislig City, Surigao del Sur",
+         "date_established":"7/25/2008",
+         "families_served":2754,
+         "Longtitude":126.24308,
+         "Latitude":8.24907
+      },
+      {
+         "operator":"Sto. Nio, Pontod, Pong-onm Hornasan Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Sto. Nino, San Agustin, Surigao del Sur",
+         "date_established":"3/11/2010",
+         "families_served":200,
+         "Longtitude":126.23522,
+         "Latitude":8.76465
+      },
+      {
+         "operator":"Rizal  Multi-Purpose Cooperative (new operator)",
+         "operator_address":"Brgy. Rizal, San Francisco, Agusan del Sur",
+         "date_established":"3/31/2010",
+         "families_served":130,
+         "Longtitude":125.84646,
+         "Latitude":8.49827
+      },
+      {
+         "operator":"Barobo Taboan VendorsÍ Association (BATAVA)",
+         "operator_address":"Poblacion, Barobo, Surigao del Sur",
+         "date_established":"4/23/2008",
+         "families_served":1350,
+         "Longtitude":126.11588,
+         "Latitude":8.54011
+      },
+      {
+         "operator":"Municipal Agriculture Office",
+         "operator_address":"Brgy. Bad-as, Placer, Surigao del Norte",
+         "date_established":"4/8/2009",
+         "families_served":131,
+         "Longtitude":125.56657,
+         "Latitude":9.63714
+      },
+      {
+         "operator":"Balangayan Butuan Cooperative",
+         "operator_address":"Brgy. Pagatpatan, Butuan City, Agusan del Norte",
+         "date_established":"3/26/2008",
+         "families_served":958,
+         "Longtitude":125.52625,
+         "Latitude":8.99454
+      },
+      {
+         "operator":"Patin-ay Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Patin-ay, Prosperidad, Agusan del Sur",
+         "date_established":"1/19/2010",
+         "families_served":2310,
+         "Longtitude":125.93368,
+         "Latitude":8.56045
+      },
+      {
+         "operator":"Aclan Coconut FarmersÍ Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Aclan, Nasipit, Agusan del Norte",
+         "date_established":"2/9/2011",
+         "families_served":700,
+         "Longtitude":125.30895,
+         "Latitude":8.94094
+      },
+      {
+         "operator":"Municipal Agriculture Office",
+         "operator_address":"Brgy. Poblacion, Malimono, Surigao del Norte",
+         "date_established":"6/27/2011",
+         "families_served":110,
+         "Longtitude":125.40223,
+         "Latitude":9.62321
+      },
+      {
+         "operator":"Manila de Bugabos Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Sto. Cruz, Butuan City, Agusan del Norte",
+         "date_established":"7/26/2011",
+         "families_served":80,
+         "Longtitude":125.53233,
+         "Latitude":8.94789
+      },
+      {
+         "operator":"Marcelina WomenÍs Cooperative",
+         "operator_address":"Brgy. Marcelina, Bayugan City, Agusan del Sur",
+         "date_established":"6/20/2008 (re-opened 12/4/2011)",
+         "families_served":150,
+         "Longtitude":125.7637,
+         "Latitude":8.6993
+      },
+      {
+         "operator":"San Roque Rural Improvement Club",
+         "operator_address":"Brgy. San Roque, Madrid, Surigao del Sur",
+         "date_established":"12/15/2010",
+         "families_served":170,
+         "Longtitude":125.93068,
+         "Latitude":9.23488
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Mabuhay, Prosperidad, Agusan Del Sur",
+         "date_established":"4/29/2010",
+         "families_served":450,
+         "Longtitude":125.98359,
+         "Latitude":8.68916
+      },
+      {
+         "operator":"Lusiama IrrigatorsÍ Association",
+         "operator_address":"Brgy. Lucena, Prosperidad, Agusan del Sur",
+         "date_established":"7/27/2011",
+         "families_served":187,
+         "Longtitude":125.88482,
+         "Latitude":8.57145
+      },
+      {
+         "operator":"Lumbocan HomeownersÍ Integrated Cooperative",
+         "operator_address":"Brgy. Lumbocan, Butuan City, Agusan del Norte",
+         "date_established":"10/18/2008 (re-opened 10/11/2011)",
+         "families_served":100,
+         "Longtitude":125.50876,
+         "Latitude":9.00606
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Diatagon, Tago, Surigao del Sur",
+         "date_established":"-",
+         "families_served":120,
+         "Longtitude":126.21558,
+         "Latitude":9.03559
+      },
+      {
+         "operator":"Kitcharao Agusan del Norte ProducersÍ Corporation",
+         "operator_address":"Poblacion, Kitcharao, Agusan del Norte",
+         "date_established":"4/20/2010",
+         "families_served":954,
+         "Longtitude":125.58016,
+         "Latitude":9.45563
+      },
+      {
+         "operator":"Crossing Luna, Beawan, Esperanza Vegetable ProducersÍ  Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Crossing Luna, Esperanza, Agusan del Sur",
+         "date_established":"3/25/2010",
+         "families_served":4000,
+         "Longtitude":125.67045,
+         "Latitude":8.66479
+      },
+      {
+         "operator":"Malambu-on Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Del Monte, Talacogon, Agusan del Sur",
+         "date_established":"11/11/2011",
+         "families_served":500,
+         "Longtitude":125.82452,
+         "Latitude":8.45029
+      },
+      {
+         "operator":"Dumalagan Multi-Purpose Cooperative",
+         "operator_address":"BFT Poblacion, Socorro, Siargao Island, Surigao Del Norte",
+         "date_established":"11/18/2011",
+         "families_served":500,
+         "Longtitude":125.95408,
+         "Latitude":9.60016
+      },
+      {
+         "operator":"Castillo Village Rural Improvement Club",
+         "operator_address":"Brgy. Castillo Village, Bislig City, Surigao del Sur",
+         "date_established":"4/29/2010",
+         "families_served":1150,
+         "Longtitude":126.284775,
+         "Latitude":8.210056
+      },
+      {
+         "operator":"Amag FarmersÍ Organization",
+         "operator_address":"Brgy. Amag, Bayabas, Surigao del Sur",
+         "date_established":"12/15/2010",
+         "families_served":300,
+         "Longtitude":126.268508,
+         "Latitude":8.941965
+      },
+      {
+         "operator":"Esperanza FarmersÍ Credit Cooperative",
+         "operator_address":"Brgy. Rizal, Santa Monica, Siargao Island, Surigao del Norte",
+         "date_established":"4/15/2010",
+         "families_served":300,
+         "Longtitude":126.040013,
+         "Latitude":10.032589
+      },
+      {
+         "operator":"Municipal Government of Del Carmen",
+         "operator_address":"Poblacion, Del Carmen, Siargao Island, Surigao del Norte",
+         "date_established":"4/1/2011",
+         "families_served":"-",
+         "Longtitude":125.963745,
+         "Latitude":9.625122
+      },
+      {
+         "operator":"Soccoro Empowered PeopleÍs Cooperative",
+         "operator_address":"Brgy. Poblacion, Socorro, Siargao Island, Surigao del Norte",
+         "date_established":"3/20/2010",
+         "families_served":2500,
+         "Longtitude":125.963745,
+         "Latitude":9.625122
+      },
+      {
+         "operator":"Manapa Marketing and ConsumersÍ Association (new operator)",
+         "operator_address":"Brgy. Manapa, BuenaviSto., Agusan del Norte",
+         "date_established":"10/17/2008",
+         "families_served":105,
+         "Longtitude":125.450005,
+         "Latitude":8.978167
+      },
+      {
+         "operator":"General Luna First Community Development Organization",
+         "operator_address":"Brgy. Poblacion 3, General Luna, Siargao Island, Surigao del Norte",
+         "date_established":"4/15/2010",
+         "families_served":500,
+         "Longtitude":126.167125,
+         "Latitude":9.806877
+      },
+      {
+         "operator":"Bunga Samahang Nayon",
+         "operator_address":"Brgy. Bunga, Lanuza, Surigao del Sur",
+         "date_established":"3/27/2010",
+         "families_served":405,
+         "Longtitude":126.073608,
+         "Latitude":9.243093
+      },
+      {
+         "operator":"Esperanza FarmersÍ Credit Cooperative",
+         "operator_address":"Brgy.Esperanza, Del Carmen, Siargao Island, Surigao del Norte",
+         "date_established":"4/15/2010",
+         "families_served":210,
+         "Longtitude":126.014523,
+         "Latitude":9.864163
+      },
+      {
+         "operator":"Tangbo WomenÍs Association",
+         "operator_address":"Brgy. Tangbo, Sto. Monica, Siargao Island, Surigao del Norte",
+         "date_established":"5/4/2010",
+         "families_served":50,
+         "Longtitude":126.046,
+         "Latitude":9.84819
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Consuelo, Bunawan, Agusan del Sur",
+         "date_established":"4/27/2010",
+         "families_served":540,
+         "Longtitude":126.053696,
+         "Latitude":8.168673
+      },
+      {
+         "operator":"Burboanan ReforeSto.tion FarmersÍ Association",
+         "operator_address":"Brgy. Burboanan, Bislig City, Surigao del Sur",
+         "date_established":"4/23/2008",
+         "families_served":700,
+         "Longtitude":126.284843,
+         "Latitude":8.210811
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Brgy. Bunga, Lanuza, Surigao del Sur",
+         "date_established":"3/27/2010",
+         "families_served":405,
+         "Longtitude":126.073608,
+         "Latitude":9.243093
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Mlang, North Cotabato",
+         "date_established":"8/20/2010",
+         "families_served":2543,
+         "Longtitude":124.906551,
+         "Latitude":6.938217
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"President Quirino, Sultan Kudarat",
+         "date_established":"4/13/2008",
+         "families_served":3492,
+         "Longtitude":124.740929,
+         "Latitude":6.725584
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"President Quirino, Sultan Kudarat",
+         "date_established":"8/10/2010",
+         "families_served":2876,
+         "Longtitude":124.740929,
+         "Latitude":6.725584
+      },
+      {
+         "operator":"KALIPI WomenÍs Association",
+         "operator_address":"Polomolok, South Cotabato",
+         "date_established":"11/15/2010",
+         "families_served":2708,
+         "Longtitude":125.060841,
+         "Latitude":6.224513
+      },
+      {
+         "operator":"Sto. Teresita Bagong Sibul Association",
+         "operator_address":"Sto. Nino, South Cotabato",
+         "date_established":"7/8/2010",
+         "families_served":2371,
+         "Longtitude":124.674441,
+         "Latitude":6.437151
+      },
+      {
+         "operator":"Katipunan KALIPI WomenÍs Association",
+         "operator_address":"Sto. Nino, South Cotabato",
+         "date_established":"12/21/2010",
+         "families_served":3046,
+         "Longtitude":124.674441,
+         "Latitude":6.437151
+      },
+      {
+         "operator":"KALIPI WomenÍs Association",
+         "operator_address":"Polomolok, South Cotabato",
+         "date_established":"11/5/2007",
+         "families_served":2190,
+         "Longtitude":124.751981,
+         "Latitude":6.319496
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Surallah, South Cotabato",
+         "date_established":"10/1/2010",
+         "families_served":3710,
+         "Longtitude":125.060841,
+         "Latitude":6.224513
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"President Quirino, Sultan Kudarat",
+         "date_established":"10/19/2009",
+         "families_served":2125,
+         "Longtitude":124.740929,
+         "Latitude":6.725584
+      },
+      {
+         "operator":"TIWA (Tapon Indigenous Women Association)",
+         "operator_address":"Glan, Sarangani Province",
+         "date_established":"5/7/2009",
+         "families_served":2995,
+         "Longtitude":125.346625,
+         "Latitude":5.760038
+      },
+      {
+         "operator":"Nicaan Consortium of MRDP",
+         "operator_address":"Libungan, North Cotabato",
+         "date_established":"1/26/2009",
+         "families_served":1793,
+         "Longtitude":124.530684,
+         "Latitude":7.316374
+      },
+      {
+         "operator":"Landan Makabayan Magsasaka Cooperative",
+         "operator_address":"Polomolok, South Cotabato",
+         "date_established":"1/20/2010",
+         "families_served":4186,
+         "Longtitude":124.751981,
+         "Latitude":6.319496
+      },
+      {
+         "operator":"Muslim Lumad Christian Marketing Cooperative",
+         "operator_address":"Aleosan, North Cotabato",
+         "date_established":"10/20/2009",
+         "families_served":3295,
+         "Longtitude":124.630337,
+         "Latitude":7.188938
+      },
+      {
+         "operator":"Ulamian Vegetables Association",
+         "operator_address":"Libungan, North Cotabato",
+         "date_established":"10/9/2009",
+         "families_served":2678,
+         "Longtitude":124.530684,
+         "Latitude":7.316374
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Maitum, Sarangani Provnce",
+         "date_established":"7/21/2010",
+         "families_served":1882,
+         "Longtitude":124.486357,
+         "Latitude":6.124081
+      },
+      {
+         "operator":"Dept. of Agriculture, Balindog Employees Association, DABEA",
+         "operator_address":"Kidapawan City, North Cotabato",
+         "date_established":"7/8/2009",
+         "families_served":1500,
+         "Longtitude":125.091134,
+         "Latitude":7.010607
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Midsayap, North Cotabato",
+         "date_established":"9/28/2009",
+         "families_served":2968,
+         "Longtitude":124.530684,
+         "Latitude":7.133551
+      },
+      {
+         "operator":"Makilala Vegetables Farmers Multi-purpose Cooperative",
+         "operator_address":"Makilala, North Cotabato",
+         "date_established":"9/3/2010",
+         "families_served":2530,
+         "Longtitude":125.082859,
+         "Latitude":6.923432
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Maitum, Sarangani Provnce",
+         "date_established":"9/8/2010",
+         "families_served":7719,
+         "Longtitude":124.486357,
+         "Latitude":6.124081
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Maitum, Sarangani Provnce",
+         "date_established":"5/17/2009",
+         "families_served":4980,
+         "Longtitude":124.486357,
+         "Latitude":6.124081
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Malapatan, Sarangani Province",
+         "date_established":"10/2/2010",
+         "families_served":7875,
+         "Longtitude":125.285378,
+         "Latitude":5.966339
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Maitum, Sarangani Provnce",
+         "date_established":"5/5/2009",
+         "families_served":3526,
+         "Longtitude":124.486357,
+         "Latitude":6.124081
+      },
+      {
+         "operator":"RIC Tambilil",
+         "operator_address":"Kiamba, Sarangani Provnce",
+         "date_established":"5/6/2009",
+         "families_served":3018,
+         "Longtitude":124.641403,
+         "Latitude":6.023393
+      },
+      {
+         "operator":"Rural Improvement Club",
+         "operator_address":"Kiamba, Sarangani Provnce",
+         "date_established":"10/28/2010",
+         "families_served":5347,
+         "Longtitude":124.641403,
+         "Latitude":6.023393
+      },
+      {
+         "operator":"Katubao Tribal Community Multi-Purpose Cooperative",
+         "operator_address":"Kiamba, Sarangani Provnce",
+         "date_established":"9/23/2010",
+         "families_served":7361,
+         "Longtitude":124.641403,
+         "Latitude":6.023393
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Kiamba, Sarangani Provnce",
+         "date_established":"12/11/2009",
+         "families_served":3494,
+         "Longtitude":124.641403,
+         "Latitude":6.023393
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Kiamba, Sarangani Province",
+         "date_established":"12/8/2010",
+         "families_served":1500,
+         "Longtitude":124.641403,
+         "Latitude":6.023393
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Glan, Sarangani Province",
+         "date_established":"11/12/2009",
+         "families_served":2521,
+         "Longtitude":125.346625,
+         "Latitude":5.760038
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Glan, Sarangani Province",
+         "date_established":"11/11/2009",
+         "families_served":3000,
+         "Longtitude":125.346625,
+         "Latitude":5.760038
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"General Santos City",
+         "date_established":"4/12/2010",
+         "families_served":11812,
+         "Longtitude":125.171618,
+         "Latitude":6.116386
+      },
+      {
+         "operator":"Rosary Heights 8 KALIPI",
+         "operator_address":"Notre Dame Village, Cotabato City",
+         "date_established":"5/7/2011",
+         "families_served":4145,
+         "Longtitude":124.24321,
+         "Latitude":7.190049
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Cotabato City",
+         "date_established":"12/13/2010",
+         "families_served":2433,
+         "Longtitude":124.242304,
+         "Latitude":7.188335
+      },
+      {
+         "operator":"Pansacala Vendors Association",
+         "operator_address":"Cotabato City",
+         "date_established":"8/30/2008 (re-opened 2/26/2012)",
+         "families_served":2300,
+         "Longtitude":124.242304,
+         "Latitude":7.188335
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Malungon, Sarangani Province",
+         "date_established":"12/14/2010",
+         "families_served":1550,
+         "Longtitude":125.258796,
+         "Latitude":6.334303
+      },
+      {
+         "operator":"Luhong Integrated Farmers Association",
+         "operator_address":"Antipas, North Cotabato",
+         "date_established":"11/6/2009",
+         "families_served":3100,
+         "Longtitude":125.060841,
+         "Latitude":7.269984
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Malungon, Sarangani Province",
+         "date_established":"12/14/2010",
+         "families_served":1550,
+         "Longtitude":125.258796,
+         "Latitude":6.334303
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Antipas, North Cotabato",
+         "date_established":"7/9/2010",
+         "families_served":1542,
+         "Longtitude":125.060841,
+         "Latitude":7.269984
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Magpet, North Cotabato",
+         "date_established":"7/31/2010",
+         "families_served":1747,
+         "Longtitude":125.170874,
+         "Latitude":7.1332
+      },
+      {
+         "operator":"City Food Terminal Multipurpose Cooperative (CCFTEMCO)",
+         "operator_address":"Bula, General Santos City",
+         "date_established":"-",
+         "families_served":2708,
+         "Longtitude":125.195612,
+         "Latitude":6.105264
+      },
+      {
+         "operator":"FarmerÍs Association of Poblacion Mapet",
+         "operator_address":"Magpet, North Cotabato",
+         "date_established":"8/6/2008",
+         "families_served":3180,
+         "Longtitude":125.060841,
+         "Latitude":7.269984
+      },
+      {
+         "operator":"Advocate of Magpet for Transformation and Integrated Development Association",
+         "operator_address":"Magpet, North Cotabato",
+         "date_established":"11/13/2009",
+         "families_served":2055,
+         "Longtitude":125.060841,
+         "Latitude":7.269984
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Pikit, North Cotabato",
+         "date_established":"7/2/2010",
+         "families_served":2061,
+         "Longtitude":124.92861,
+         "Latitude":7.208753
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Matalam, North Cotabato",
+         "date_established":"10/20/2009",
+         "families_served":2705,
+         "Longtitude":124.61927,
+         "Latitude":7.053144
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Pikitm North Cotabato",
+         "date_established":"9/24/2009",
+         "families_served":3384,
+         "Longtitude":124.92861,
+         "Latitude":7.208753
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Mlang, North Cotabato",
+         "date_established":"8/20/2010",
+         "families_served":2543,
+         "Longtitude":124.906551,
+         "Latitude":6.938217
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Tacurong City, Sultan Kudarat",
+         "date_established":"12/3/2009",
+         "families_served":2784,
+         "Longtitude":124.678774,
+         "Latitude":6.687966
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Tacurong City, Sultan Kudarat",
+         "date_established":"11/27/2009",
+         "families_served":2049,
+         "Longtitude":124.678774,
+         "Latitude":6.687966
+      },
+      {
+         "operator":"Brgy. Dukay, RIC",
+         "operator_address":"Esperanza, Sultan Kudarat",
+         "date_established":"4/11/2008",
+         "families_served":2888,
+         "Longtitude":124.544875,
+         "Latitude":6.698899
+      },
+      {
+         "operator":"OFW and Beneficiaries Association",
+         "operator_address":"Isulan, Sultan Kudarat",
+         "date_established":"9/9/2008",
+         "families_served":4987,
+         "Longtitude":124.597814,
+         "Latitude":6.632264
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Lambayong, Sultan Kudarat",
+         "date_established":"7/6/2010",
+         "families_served":2647,
+         "Longtitude":124.630697,
+         "Latitude":6.807812
+      },
+      {
+         "operator":"KALIPI, Kalipunan ng Lipunang Pilipina",
+         "operator_address":"Isulan, Sultan Kudarat",
+         "date_established":"7/20/2010",
+         "families_served":2531,
+         "Longtitude":124.597814,
+         "Latitude":6.632264
+      },
+      {
+         "operator":"BLGU _ Brgy. Council",
+         "operator_address":"Bagumbayan, Sultan Kudarat",
+         "date_established":"12/17/2008 (transferred location 6/12/2009)",
+         "families_served":1808,
+         "Longtitude":124.563056,
+         "Latitude":6.533026
+      },
+      {
+         "operator":"Tamugan WomenÍs RIC (TAWORIC)",
+         "operator_address":"Brgy. Tamugan, Marilog, Davao City",
+         "date_established":"7/23/2010",
+         "families_served":235,
+         "Longtitude":125.3906,
+         "Latitude":7.251051
+      },
+      {
+         "operator":"B-LGU",
+         "operator_address":"Brgy. Mabuhay, Bansalan, Davao del Sur",
+         "date_established":"10/23/2008",
+         "families_served":400,
+         "Longtitude":125.217,
+         "Latitude":6.78333
+      },
+      {
+         "operator":"San Isidro Multi-Purpose Cooperative",
+         "operator_address":"Brgy. San Isidro, Magsaysay, Davao Del Sur",
+         "date_established":"9/8/2008",
+         "families_served":310,
+         "Longtitude":125.145284,
+         "Latitude":6.789241
+      },
+      {
+         "operator":"B-LGU",
+         "operator_address":"Brgy. Manga, Matanao, Davao del Sur",
+         "date_established":"9/23/2010",
+         "families_served":490,
+         "Longtitude":125.196772,
+         "Latitude":6.679099
+      },
+      {
+         "operator":"Conservation Farming  Villages Farmers Association",
+         "operator_address":"Brgy.  Mabunao, Panabo City, Davao Del Norte",
+         "date_established":"12/15/2009",
+         "families_served":335,
+         "Longtitude":125.68412,
+         "Latitude":7.308707
+      },
+      {
+         "operator":"BLGU",
+         "operator_address":"Brgy. Malativas Panabo City, Davao Del Norte",
+         "date_established":"12/9/2008",
+         "families_served":470,
+         "Longtitude":125.690303,
+         "Latitude":7.293904
+      },
+      {
+         "operator":"SEAK ( Self Employment AssiSto.nce Kaunlaran )Womens",
+         "operator_address":"Brgy. Balagunan, Sto. Tomas, Davao Del Norte",
+         "date_established":"12/8/2010",
+         "families_served":350,
+         "Longtitude":125.632102,
+         "Latitude":7.47801
+      },
+      {
+         "operator":"SinadÍbadan Kag Tugallan Sebulan Cityside Cooperative",
+         "operator_address":"Brgy. Buda, Toril District, Davao City",
+         "date_established":"12/8/2009",
+         "families_served":80,
+         "Longtitude":125.26978,
+         "Latitude":7.5336
+      },
+      {
+         "operator":"Malawanit Farmers MPC",
+         "operator_address":"Brgy. Malawanit, Magsaysay, Davao del Sur",
+         "date_established":"9/19/2008",
+         "families_served":4002,
+         "Longtitude":125.676729,
+         "Latitude":7.372655
+      },
+      {
+         "operator":"Catumbal Fisherfolk and Mudcrab Multi Purpose Coop.",
+         "operator_address":"Purok Catumbal, Brgy. La Paz, Carmen, Davao Del Norte",
+         "date_established":"7/20/2010",
+         "families_served":420,
+         "Longtitude":125.676729,
+         "Latitude":7.372655
+      },
+      {
+         "operator":"Panabo Vegetable Growers Association",
+         "operator_address":"Brgy.  Sto. Nino Panabo City, Davao Del Norte",
+         "date_established":"8/6/2010",
+         "families_served":1033,
+         "Longtitude":125.684118,
+         "Latitude":7.308707
+      },
+      {
+         "operator":"Pasig Agrarian Reform Beneficiaries and Upland Farmers MPC",
+         "operator_address":"Brgy. Pasig, Kiblawan, Davao del Sur",
+         "date_established":"5/26/2011",
+         "families_served":390,
+         "Longtitude":125.512731,
+         "Latitude":7.341669
+      },
+      {
+         "operator":"Buda FarmerÍs Cooperative (BFC)",
+         "operator_address":"Brgy. Buda, Marilog District, Davao City",
+         "date_established":"7/16/2009",
+         "families_served":64,
+         "Longtitude":125.236692,
+         "Latitude":7.520174
+      },
+      {
+         "operator":"Brgy. Panalum RIC (Women)",
+         "operator_address":"Brgy. Panalum, Paquibato District, Davao Oriental",
+         "date_established":"3/9/2009",
+         "families_served":40,
+         "Longtitude":125.494624,
+         "Latitude":7.335756
+      },
+      {
+         "operator":"B-LGU",
+         "operator_address":"Brgy. Kiba-o, Matanao, Davao del Sur",
+         "date_established":"7/13/2010",
+         "families_served":270,
+         "Longtitude":125.238132,
+         "Latitude":6.753175
+      },
+      {
+         "operator":"Bacungan  Farmers MPC",
+         "operator_address":"Brgy. Bacungan, Magsaysay, Davao del Sur",
+         "date_established":"9/17/2008",
+         "families_served":670,
+         "Longtitude":125.154378,
+         "Latitude":6.750562
+      },
+      {
+         "operator":"San Roque FarmerÍs Multi-purpose Cooperative",
+         "operator_address":"Brgy. Baracatan, Toril District, Davao City",
+         "date_established":"11/18/2009",
+         "families_served":280,
+         "Longtitude":125.427979,
+         "Latitude":6.971891
+      },
+      {
+         "operator":"San Isidro MPC",
+         "operator_address":"Brgy. San Isidro, Malalag, Davao del Sur",
+         "date_established":"8/6/2009",
+         "families_served":385,
+         "Longtitude":125.399008,
+         "Latitude":6.596076
+      },
+      {
+         "operator":"Kinuskusan MPC",
+         "operator_address":"Brgy. Kinuskusan, Bansalan, Davao del Sur",
+         "date_established":"7/30/2008",
+         "families_served":225,
+         "Longtitude":125.168168,
+         "Latitude":6.859334
+      },
+      {
+         "operator":"Bolton Coconut Farmers, Multipurpose Cooperative",
+         "operator_address":"Brgy. Bolton, Malalag, Davao del Sur",
+         "date_established":"12/16/2009",
+         "families_served":450,
+         "Longtitude":125.398979,
+         "Latitude":6.597255
+      },
+      {
+         "operator":"Mabini Agro-Forestry Farmers Development Cooperative",
+         "operator_address":"Brgy. Mabini, Malalag, Davao del Sur",
+         "date_established":"12/14/2009",
+         "families_served":270,
+         "Longtitude":125.398979,
+         "Latitude":6.597937
+      },
+      {
+         "operator":"New Baclayon MPC",
+         "operator_address":"Brgy. New Baclayon, Malalag, Davao del Sur",
+         "date_established":"8/6/2009",
+         "families_served":860,
+         "Longtitude":125.368703,
+         "Latitude":6.582536
+      },
+      {
+         "operator":"St. Michael MPC",
+         "operator_address":"Brgy. Kasuga, Magsaysay, Davao del Sur",
+         "date_established":"10/6/2009",
+         "families_served":930,
+         "Longtitude":125.182582,
+         "Latitude":6.73033
+      },
+      {
+         "operator":"Sitio Alo Farmers MPC",
+         "operator_address":"Sitio Alo, brgy. Darapuay, Bansalan, Davao del Sur",
+         "date_established":"10/21/2008",
+         "families_served":1130,
+         "Longtitude":125.201108,
+         "Latitude":6.897682
+      },
+      {
+         "operator":"Brgy. Talaguton Food Terminal Association",
+         "operator_address":"Brgy. Talaguton, Don Marcelion, Davao del Sur",
+         "date_established":"2/26/2011",
+         "families_served":125,
+         "Longtitude":125.662186,
+         "Latitude":6.259516
+      },
+      {
+         "operator":"Tinungtungan MPC",
+         "operator_address":"Brgy. Tinuntungan, Bansalan, Davao del Sur",
+         "date_established":"11/27/2008",
+         "families_served":559,
+         "Longtitude":125.205566,
+         "Latitude":6.79085
+      },
+      {
+         "operator":"B-LGU",
+         "operator_address":"Brgy. Upper Bala, Magsaysay, Davao del Sur",
+         "date_established":"10/24/2008",
+         "families_served":500,
+         "Longtitude":125.139092,
+         "Latitude":6.808986
+      },
+      {
+         "operator":"Anagasi Farmers Multipurpose Cooperative",
+         "operator_address":"Sitio Anagasi Brgy. Casoon, Monkayo Compostela Valley",
+         "date_established":"11/15/2011",
+         "families_served":442,
+         "Longtitude":125.980553,
+         "Latitude":7.839667
+      },
+      {
+         "operator":"B-LGU",
+         "operator_address":"Brgy. Managa, Bansalan, Davao del Sur",
+         "date_established":"10/30/2008",
+         "families_served":300,
+         "Longtitude":125.238132,
+         "Latitude":6.753175
+      },
+      {
+         "operator":"B-LGU",
+         "operator_address":"Brgy. Managa, Bansalan, Davao del Sur",
+         "date_established":"10/30/2008",
+         "families_served":300,
+         "Longtitude":125.238132,
+         "Latitude":6.753175
+      },
+      {
+         "operator":"Lower Marber Irrigators Cooperative",
+         "operator_address":"Brgy. New Clarin, Bansalan, Davao del Sur",
+         "date_established":"11/14/2008",
+         "families_served":"-",
+         "Longtitude":125.195506,
+         "Latitude":6.789476
+      },
+      {
+         "operator":"Haguimitan Integrated Cooperative (HICO)",
+         "operator_address":"Purok 1 Haguimitan Monkayo, Compostela Valley",
+         "date_established":"12/7/2010",
+         "families_served":993,
+         "Longtitude":126.067429,
+         "Latitude":7.84863
+      },
+      {
+         "operator":"Dynamic Vegetable Growers Association",
+         "operator_address":"Purok 4, Matina Biao, Davao City",
+         "date_established":"3/4/2010",
+         "families_served":10000,
+         "Longtitude":125.53957,
+         "Latitude":7.138793
+      },
+      {
+         "operator":"Pasian Livelihood Ladies Cooperative",
+         "operator_address":"Purok 1A Pasian Monkayo, Compostela Valley",
+         "date_established":"11/1/2011",
+         "families_served":10000,
+         "Longtitude":126.076477,
+         "Latitude":7.924216
+      },
+      {
+         "operator":"Nabok Development Cooperative",
+         "operator_address":"Nabok, Monkayo, Compostela Valley",
+         "date_established":"5/28/2011",
+         "families_served":1147,
+         "Longtitude":126.100211,
+         "Latitude":7.746171
+      },
+      {
+         "operator":"Rizal United Farmers Communal Irrigators Association",
+         "operator_address":"Brgy. Rizal, Monkayo, Compostela Valley",
+         "date_established":"5/28/2011",
+         "families_served":976,
+         "Longtitude":126.121947,
+         "Latitude":7.889409
+      },
+      {
+         "operator":"San Isidro Samahang Nayon PrimaryMultipurpose Cooperative",
+         "operator_address":"San Isidro,Nabunturan, Compostela Valley",
+         "date_established":"9/1/2010",
+         "families_served":250,
+         "Longtitude":125.965242,
+         "Latitude":7.603537
+      },
+      {
+         "operator":"B-LGU",
+         "operator_address":"Brgy. Ban-ao,  Baganga Davao Oriental",
+         "date_established":"7/27/2010",
+         "families_served":922,
+         "Longtitude":126.537094,
+         "Latitude":7.633075
+      },
+      {
+         "operator":"BFT Lamiawan FarmersÍ Vendors Association",
+         "operator_address":"Brgy. Lamiawan, Caraga, Davao Oriental",
+         "date_established":"3/5/2010",
+         "families_served":432,
+         "Longtitude":126.541901,
+         "Latitude":7.31752
+      },
+      {
+         "operator":"B-LGU",
+         "operator_address":"Brgy. San Jose Caraga Davao Oriental",
+         "date_established":"9/1/2010",
+         "families_served":805,
+         "Longtitude":126.541901,
+         "Latitude":7.31752
+      },
+      {
+         "operator":"San Isidro Multi-Purpose Farmers Association",
+         "operator_address":"Brgy. San Isidro Baganga Davao Oriental",
+         "date_established":"12/10/2009",
+         "families_served":2376,
+         "Longtitude":126.537094,
+         "Latitude":7.633075
+      },
+      {
+         "operator":"B-LGU",
+         "operator_address":"Brgy. Mahan-ub Baganga Davao Oriental",
+         "date_established":"1/27/2010",
+         "families_served":942,
+         "Longtitude":126.537094,
+         "Latitude":7.633075
+      },
+      {
+         "operator":"Badian Resource Development MPC (BREVAMCO)",
+         "operator_address":"Brgy. Banhigan, Badian, Cebu",
+         "date_established":"10/28/2011",
+         "families_served":2833,
+         "Longtitude":123.526607,
+         "Latitude":9.865569
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. Rizal, Pilar, Bohol",
+         "date_established":"8/8/2010",
+         "families_served":1330,
+         "Longtitude":124.33255,
+         "Latitude":9.836442
+      },
+      {
+         "operator":"Alcantara Government Workers MPC",
+         "operator_address":"Brgy. Poblacion, Alcantara,Cebu",
+         "date_established":"7/28/2009",
+         "families_served":2464,
+         "Longtitude":123.404509,
+         "Latitude":9.97095
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. San Isidro, San Fernando, Cebu",
+         "date_established":"2/21/2012",
+         "families_served":10987,
+         "Longtitude":123.721453,
+         "Latitude":10.176323
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. Balud, San Fernando, Cebu",
+         "date_established":"9/8/2011",
+         "families_served":5417,
+         "Longtitude":123.694825,
+         "Latitude":10.14816
+      },
+      {
+         "operator":"ALTAMCO (Alang sa Tanan MPC)",
+         "operator_address":"Brgy. Olo, Siquijor",
+         "date_established":"7/21/2009",
+         "families_served":4655,
+         "Longtitude":123.551808,
+         "Latitude":9.215145
+      },
+      {
+         "operator":"Cambinocot Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Cambinocot, Cebu City",
+         "date_established":"10/10/2015",
+         "families_served":159762,
+         "Longtitude":123.902511,
+         "Latitude":10.465623
+      },
+      {
+         "operator":"MLGU thru MAO Rene Amores",
+         "operator_address":"Brgy. Poblacion, San Jose, Negros Oriental",
+         "date_established":"4/13/2011",
+         "families_served":3450,
+         "Longtitude":123.240538,
+         "Latitude":9.412797
+      },
+      {
+         "operator":"Cadena De Amor Rural Improvement Club",
+         "operator_address":"Brgy. Talisay, Daan Bantayan, Cebu City",
+         "date_established":"7/8/2009",
+         "families_served":14651,
+         "Longtitude":124.055789,
+         "Latitude":11.244905
+      },
+      {
+         "operator":"Catibes II Guba Farmers Association",
+         "operator_address":"Brgy. Mambaling, Cebu City",
+         "date_established":"8/26/2009",
+         "families_served":2500,
+         "Longtitude":123.879517,
+         "Latitude":10.287282
+      },
+      {
+         "operator":"Little Salvacion MPC",
+         "operator_address":"Brgy. Candaping, Maria, Siquijor",
+         "date_established":"3/9/2011",
+         "families_served":2595,
+         "Longtitude":123.658135,
+         "Latitude":9.163537
+      },
+      {
+         "operator":"Kalubihan Riverside MPC (KARIMCO)",
+         "operator_address":"Brgy. Sambag II, Cebu City",
+         "date_established":"12/7/2007",
+         "families_served":16543,
+         "Longtitude":123.890657,
+         "Latitude":10.305902
+      },
+      {
+         "operator":"MLGU",
+         "operator_address":"Brgy. Poblacion, Guindulman, Bohol",
+         "date_established":"3/25/2011",
+         "families_served":6471,
+         "Longtitude":124.494086,
+         "Latitude":9.819195
+      },
+      {
+         "operator":"BLGU",
+         "operator_address":"Brgy. Camangki, Enrique Villanueva, Siquijor",
+         "date_established":"11/12/2010",
+         "families_served":1176,
+         "Longtitude":123.636909,
+         "Latitude":9.265457
+      },
+      {
+         "operator":"Active Beginners Club",
+         "operator_address":"Brgy. North Poblaciong, Larena, Siquijor",
+         "date_established":"11/11/2011",
+         "families_served":1800,
+         "Longtitude":123.590995,
+         "Latitude":9.24915
+      },
+      {
+         "operator":"Mabuhay Small Fisherman Association",
+         "operator_address":"Brgy. Mabuhay, Sto. Catalina, Negros Oriental",
+         "date_established":"12/10/2010",
+         "families_served":14526,
+         "Longtitude":122.943767,
+         "Latitude":9.28676
+      },
+      {
+         "operator":"BLGU",
+         "operator_address":"Brgy. Campalanas, Lazi, Siquijor",
+         "date_established":"3/10/2011",
+         "families_served":1300,
+         "Longtitude":123.570004,
+         "Latitude":9.11445
+      },
+      {
+         "operator":"KASANAG Credit Coop",
+         "operator_address":"Brgy. Poblacion, Guihulngan, Negros Oriental",
+         "date_established":"12/8/2010",
+         "families_served":53771,
+         "Longtitude":123.2677,
+         "Latitude":10.127061
+      },
+      {
+         "operator":"Catulayan Community MPC",
+         "operator_address":"Brgy. Catulayan, San Juan, Siquijor",
+         "date_established":"11/11/2010",
+         "families_served":2636,
+         "Longtitude":123.542008,
+         "Latitude":9.131632
+      },
+      {
+         "operator":"Valencia Community Development Coop",
+         "operator_address":"Brgy. Cadiocan, Valencia, Negros Oriental",
+         "date_established":"11/19/2010",
+         "families_served":5587,
+         "Longtitude":123.191372,
+         "Latitude":9.281043
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Tumalalod, Dumarao, Capiz",
+         "date_established":"5/12/2015",
+         "families_served":424,
+         "Longtitude":122.760201,
+         "Latitude":11.241126
+      },
+      {
+         "operator":"MLGU",
+         "operator_address":"Numancia Public Market,Numancia, Aklan",
+         "date_established":"4/14/2010",
+         "families_served":5514,
+         "Longtitude":121.941261,
+         "Latitude":10.748907
+      },
+      {
+         "operator":"MLGU",
+         "operator_address":"Trade Town Public Market, San Jose de Buena ViSto., Antique",
+         "date_established":"12/8/2008",
+         "families_served":9652,
+         "Longtitude":121.934867,
+         "Latitude":10.755725
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. San Pedro, San Jose de BuenaviSto., Antique",
+         "date_established":"10/15/2007",
+         "families_served":2340,
+         "Longtitude":121.95112,
+         "Latitude":10.805959
+      },
+      {
+         "operator":"MLGU",
+         "operator_address":"Sebaste Public Market, Antique",
+         "date_established":"4/12/2011",
+         "families_served":2232,
+         "Longtitude":122.096735,
+         "Latitude":11.59234
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Poblacion,Moises Padilla",
+         "date_established":"11/1/2011",
+         "families_served":2882,
+         "Longtitude":123.083336,
+         "Latitude":10.266666
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Tanza, E.B. Magalona, Negros Occ.",
+         "date_established":"2/12/2015",
+         "families_served":4200,
+         "Longtitude":123.083336,
+         "Latitude":10.266666
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Talento, Tubungan, Iloilo",
+         "date_established":"9/1/2010",
+         "families_served":327,
+         "Longtitude":122.294998,
+         "Latitude":10.798909
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Jolason, Tubungan, Iloilo",
+         "date_established":"9/1/2010",
+         "families_served":314,
+         "Longtitude":122.29929,
+         "Latitude":10.783564
+      },
+      {
+         "operator":"MLGU c/o MAO and Municipal Planning",
+         "operator_address":"Brgy. Igmaya-an, Don Salvador Benedicto, Negros Occidental",
+         "date_established":"2/1/2012",
+         "families_served":4177,
+         "Longtitude":123.185829,
+         "Latitude":10.566926
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Navillan, Tubungan, Iloilo",
+         "date_established":"9/10/2015",
+         "families_served":455,
+         "Longtitude":122.30032,
+         "Latitude":10.791153
+      },
+      {
+         "operator":"MLGU",
+         "operator_address":"Dumangas , Iloilo",
+         "date_established":"11/11/2015",
+         "families_served":12433,
+         "Longtitude":122.695547,
+         "Latitude":10.84841
+      },
+      {
+         "operator":"MLGU",
+         "operator_address":"Brgy. Poblacion, Bingawan, Iloilo",
+         "date_established":"6/11/2015",
+         "families_served":13000,
+         "Longtitude":122.593828,
+         "Latitude":11.205287
+      },
+      {
+         "operator":"Banao Farmers Association Inc.",
+         "operator_address":"Del Rosario, Banao, Iriga City, Camarines Sur",
+         "date_established":"3/1/2012",
+         "families_served":150,
+         "Longtitude":123.453768,
+         "Latitude":13.397597
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. Panaytayan, Ragay, Camarines Sur",
+         "date_established":"7/1/2005",
+         "families_served":200,
+         "Longtitude":122.782783,
+         "Latitude":13.857558
+      },
+      {
+         "operator":"Libmanan Culantura Prod. Cooperative",
+         "operator_address":"San Isidro, Libmanan, Camarines Sur",
+         "date_established":"2/1/2012",
+         "families_served":500,
+         "Longtitude":123.009949,
+         "Latitude":13.667552
+      },
+      {
+         "operator":"BLGU _ Sto. Nino",
+         "operator_address":"San Antonio, Iriga City, Camarines Sur",
+         "date_established":"6/1/2008",
+         "families_served":1896,
+         "Longtitude":123.41873,
+         "Latitude":13.36644
+      },
+      {
+         "operator":"Gawad-Kalinga Libmanan, Puna Village, Libmanan",
+         "operator_address":"Sitio Pagara, GK Bahay, Libmanan, Camarines Sur",
+         "date_established":"6/1/2010",
+         "families_served":2826,
+         "Longtitude":123.01757,
+         "Latitude":13.657058
+      },
+      {
+         "operator":"Gawad-Kalinga Cabusao Multipurpose Cooperative",
+         "operator_address":"San Rafael, GK Village, Castillo, Cabusao, Camarines Sur",
+         "date_established":"11/1/2008",
+         "families_served":1605,
+         "Longtitude":122.987569,
+         "Latitude":13.700949
+      },
+      {
+         "operator":"BLGU _ San Jose",
+         "operator_address":"San Jose, Nabua, Camarines Sur",
+         "date_established":"7/1/2009",
+         "families_served":1878,
+         "Longtitude":123.385081,
+         "Latitude":13.411581
+      },
+      {
+         "operator":"Nabua Development Multipurpose Cooperative",
+         "operator_address":"Paloyon Proper, Nabua, Camarines Sur",
+         "date_established":"12/1/2010",
+         "families_served":1200,
+         "Longtitude":123.378069,
+         "Latitude":13.376234
+      },
+      {
+         "operator":"Sto. Justina Farmers Irrigators Association",
+         "operator_address":"Brgy. Sto. Justina West, Buhi, Camarines Sur",
+         "date_established":"3/1/2010",
+         "families_served":2579,
+         "Longtitude":123.474877,
+         "Latitude":13.401463
+      },
+      {
+         "operator":"BLGU _ San Antonio",
+         "operator_address":"San Antonio, Iriga City, Camarines Sur",
+         "date_established":"6/1/2011",
+         "families_served":3369,
+         "Longtitude":123.41873,
+         "Latitude":13.36644
+      },
+      {
+         "operator":"BLGU _ Malawag",
+         "operator_address":"Malawag, Nabua, Camarines Sur",
+         "date_established":"12/1/2009",
+         "families_served":2881,
+         "Longtitude":123.2981,
+         "Latitude":13.356694
+      },
+      {
+         "operator":"La Purisima Nabua Neighborhood Association (LABUNAFANE)",
+         "operator_address":"La Purisima, Nabua, Camarines Sur",
+         "date_established":"6/1/2010",
+         "families_served":1468,
+         "Longtitude":123.278449,
+         "Latitude":13.412338
+      },
+      {
+         "operator":"San Antonio Farmers Irrigators Association Multipurpose Cooperative",
+         "operator_address":"Brgy. San Antonio, Buhi, Camarines Sur",
+         "date_established":"7/1/2010",
+         "families_served":4243,
+         "Longtitude":123.516512,
+         "Latitude":13.435873
+      },
+      {
+         "operator":"Bantay-Dagat Development Cooperative",
+         "operator_address":"Brgy. BuenaviSto., Tinambac, Camarines Sur",
+         "date_established":"12/1/2009",
+         "families_served":1780,
+         "Longtitude":123.40098,
+         "Latitude":13.924191
+      },
+      {
+         "operator":"MAPADABBA Ca Producers Cooperative",
+         "operator_address":"Cagliliog, Tinambac, Camarines Sur",
+         "date_established":"3/1/2012",
+         "families_served":1000,
+         "Longtitude":123.291082,
+         "Latitude":13.900151
+      },
+      {
+         "operator":"Samahan ng Manggagawa at Mangingisda ng Banocboc",
+         "operator_address":"Sitio Sogod, Banocboc, Calaguas Island, Vinzons, Camarines Norte",
+         "date_established":"2/1/2012",
+         "families_served":2034,
+         "Longtitude":122.937868,
+         "Latitude":14.473298
+      },
+      {
+         "operator":"BLGU-Canapawan",
+         "operator_address":"Canapawan, Labo, Camarines Norte",
+         "date_established":"3/1/2009",
+         "families_served":2830,
+         "Longtitude":122.554243,
+         "Latitude":14.175892
+      },
+      {
+         "operator":"Municipal LGU",
+         "operator_address":"San Vicente, Viga, Catanduanes",
+         "date_established":"6/1/2011",
+         "families_served":175,
+         "Longtitude":124.308567,
+         "Latitude":13.868534
+      },
+      {
+         "operator":"Countryside Agrarian Reform Beneficiaries Multipurpose Coopertive",
+         "operator_address":"Maulawin, Sto. Elena, Camarines Norte",
+         "date_established":"2/1/2012",
+         "families_served":145,
+         "Longtitude":122.380096,
+         "Latitude":14.165803
+      },
+      {
+         "operator":"BLGU _ Nabungsoran",
+         "operator_address":"Brgy. Nabungsuran, Aroroy, Masbate",
+         "date_established":"1/1/2011",
+         "families_served":4045,
+         "Longtitude":123.395691,
+         "Latitude":12.510325
+      },
+      {
+         "operator":"BLGU _ Poblacion",
+         "operator_address":"Brgy. Poblacion, Aroroy, Masbate",
+         "date_established":"1/1/2009",
+         "families_served":1852,
+         "Longtitude":123.395691,
+         "Latitude":12.510325
+      },
+      {
+         "operator":"Mauswagan Credit Cooperative (MACRECO)",
+         "operator_address":"Brgy. Poblacion, Palanas, Masbate",
+         "date_established":"3/1/2012",
+         "families_served":519,
+         "Longtitude":123.783919,
+         "Latitude":12.223506
+      },
+      {
+         "operator":"BLGU _ Sto. Lucia",
+         "operator_address":"Sto. Lucia, Nabua, Camarines Sur",
+         "date_established":"6/1/2008",
+         "families_served":1554,
+         "Longtitude":123.381491,
+         "Latitude":13.420277
+      },
+      {
+         "operator":"BLGU _ San Jacinto",
+         "operator_address":"District 1, San Jacinto, Ticao, Masbate",
+         "date_established":"11/1/2011",
+         "families_served":270,
+         "Longtitude":123.684699,
+         "Latitude":12.537074
+      },
+      {
+         "operator":"BLGU _ Batuan",
+         "operator_address":"Poblacion, Batuan, Masbate",
+         "date_established":"8/1/2011",
+         "families_served":2517,
+         "Longtitude":123.780513,
+         "Latitude":12.420761
+      },
+      {
+         "operator":"Municipal LGU",
+         "operator_address":"District 3, San Miguel, Catanduanes",
+         "date_established":"-",
+         "families_served":24,
+         "Longtitude":124.27411,
+         "Latitude":13.642706
+      },
+      {
+         "operator":"Spiritual and Material Integrated Farmers and Fisherfolk Association",
+         "operator_address":"San Vicente, Pandan,  Catanduanes",
+         "date_established":"7/1/2010",
+         "families_served":55,
+         "Longtitude":124.247931,
+         "Latitude":14.011826
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. Sto. Lutgarda, Cabusao, Camarines Sur",
+         "date_established":"5/1/2010",
+         "families_served":320,
+         "Longtitude":123.090154,
+         "Latitude":13.735051
+      },
+      {
+         "operator":"Diocese of Virac Social Action Foundation, Inc (DVSAFI)",
+         "operator_address":"Bigaa, Virac, Catanduanes",
+         "date_established":"2/10/2011",
+         "families_served":377,
+         "Longtitude":124.189347,
+         "Latitude":13.594758
+      },
+      {
+         "operator":"Caramoran Employees Credit Cooperative",
+         "operator_address":"Brgy. Baybay, Caramoran, Catanduanes",
+         "date_established":"3/1/2012",
+         "families_served":90,
+         "Longtitude":124.132331,
+         "Latitude":13.98767
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Ilawod Poblacion, Bato, Catanduanes",
+         "date_established":"7/1/2011",
+         "families_served":92,
+         "Longtitude":124.298065,
+         "Latitude":13.606225
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"San Roque, Bato, Catanduanes",
+         "date_established":"2/1/2010",
+         "families_served":104,
+         "Longtitude":124.32826,
+         "Latitude":13.603072
+      },
+      {
+         "operator":"Municipal LGU",
+         "operator_address":"District 2, Gigmoto,  Catanduanes",
+         "date_established":"6/16/2001",
+         "families_served":533,
+         "Longtitude":124.379603,
+         "Latitude":13.780854
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. Mapanique, San Pascual, Masbate",
+         "date_established":"7/1/2010",
+         "families_served":100,
+         "Longtitude":123.060102,
+         "Latitude":13.039778
+      },
+      {
+         "operator":"MLGU _ Calabanga",
+         "operator_address":"Public Market, Calabanga, Camarines Sur",
+         "date_established":"7/1/2011",
+         "families_served":"-",
+         "Longtitude":123.214443,
+         "Latitude":13.706003
+      },
+      {
+         "operator":"Maliliit na Sambayanang Simbahan Diocesa MPC. (MSSD MPC)",
+         "operator_address":"Camambugan, Daet, Camarines Norte",
+         "date_established":"2/1/2011",
+         "families_served":50,
+         "Longtitude":122.946584,
+         "Latitude":14.108479
+      },
+      {
+         "operator":"Bagamanok Municipal Employees Association (BAGMEA)",
+         "operator_address":"Brgy. Poblacion, Bagamanok, Catanduanes",
+         "date_established":"2/1/2011",
+         "families_served":174,
+         "Longtitude":124.139286,
+         "Latitude":13.99283
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. Malaking Ilog, San Pascual, Masbate",
+         "date_established":"2/1/2010",
+         "families_served":140,
+         "Longtitude":123.053292,
+         "Latitude":12.998896
+      },
+      {
+         "operator":"BFT _ Batobalani",
+         "operator_address":"Batobalani, Paracale, Camarines Norte",
+         "date_established":"2/1/2009",
+         "families_served":3635,
+         "Longtitude":122.739899,
+         "Latitude":14.2357
+      },
+      {
+         "operator":"BFT _ Pambuhan",
+         "operator_address":"Pambuhan, Mercedes, Camarines Norte",
+         "date_established":"5/1/2009",
+         "families_served":2565,
+         "Longtitude":123.050763,
+         "Latitude":13.988692
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. San Rafael, Castilla, Sorsogon",
+         "date_established":"6/1/2011",
+         "families_served":800,
+         "Longtitude":123.822107,
+         "Latitude":12.970696
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. Otavi, Bulan Sorsogon",
+         "date_established":"3/1/2011",
+         "families_served":30,
+         "Longtitude":123.908787,
+         "Latitude":12.642192
+      },
+      {
+         "operator":"Bulan LGU",
+         "operator_address":"Bulan, Sorsogon",
+         "date_established":"7/1/2011",
+         "families_served":"-",
+         "Longtitude":123.887734,
+         "Latitude":12.664994
+      },
+      {
+         "operator":"Tabunan BLGU",
+         "operator_address":"Tabunan, Matnog, Sorsogon",
+         "date_established":"3/1/2012",
+         "families_served":250,
+         "Longtitude":124.082934,
+         "Latitude":12.580026
+      },
+      {
+         "operator":"LGU-Legaspi City",
+         "operator_address":"Gogon, Legaspi City",
+         "date_established":"1/1/2012",
+         "families_served":"-",
+         "Longtitude":123.744788,
+         "Latitude":13.156735
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. Inarara, Bulan, Sorsogon",
+         "date_established":"3/1/2010",
+         "families_served":41,
+         "Longtitude":123.871825,
+         "Latitude":12.701449
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. San Francisco, Bulan, Sorsogon",
+         "date_established":"5/1/2010",
+         "families_served":30,
+         "Longtitude":123.916456,
+         "Latitude":12.719824
+      },
+      {
+         "operator":"Punong Brgy. Remedios R. Mar",
+         "operator_address":"Muladbucad Pequeno, Guinobatan, Albay",
+         "date_established":"3/1/2010",
+         "families_served":1973,
+         "Longtitude":123.620375,
+         "Latitude":13.25137
+      },
+      {
+         "operator":"BLGU _ Palapas",
+         "operator_address":"Palapas, Piudaran, Albay",
+         "date_established":"5/1/2010",
+         "families_served":1178,
+         "Longtitude":123.474785,
+         "Latitude":13.10776
+      },
+      {
+         "operator":"BFT _ Itaran",
+         "operator_address":"Itaran, Polangi, Albay",
+         "date_established":"4/1/2010",
+         "families_served":2826,
+         "Longtitude":123.497198,
+         "Latitude":13.354782
+      },
+      {
+         "operator":"Kababaihan ng Brgy. Poblacion 6",
+         "operator_address":"Brgy. Poblacion 6, Coron, Palawan",
+         "date_established":"4/26/2012",
+         "families_served":2975,
+         "Longtitude":120.201412,
+         "Latitude":12.009776
+      },
+      {
+         "operator":"DA-Palawan Agricultural Experiment Sto.tion MPC",
+         "operator_address":"DA-PAES Compound, Brgy. Sto. Monica, Puerto Princesa City",
+         "date_established":"-",
+         "families_served":47620,
+         "Longtitude":118.737197,
+         "Latitude":9.782935
+      },
+      {
+         "operator":"Municipal Market Administrator",
+         "operator_address":"Brgy. Poblacion, Looc, Romblon",
+         "date_established":"6/28/2010",
+         "families_served":3265,
+         "Longtitude":121.991697,
+         "Latitude":12.259158
+      },
+      {
+         "operator":"Municipal Market Administrator",
+         "operator_address":"Brgy. Poblacion, Odiongan, Romblon",
+         "date_established":"7/29/2009",
+         "families_served":8628,
+         "Longtitude":121.982102,
+         "Latitude":12.404472
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Napo, Sto. Cruz, Marinduque",
+         "date_established":"3/14/2011",
+         "families_served":2852,
+         "Longtitude":122.075426,
+         "Latitude":13.43664
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Caigangan, BuenaviSto., Marinduque",
+         "date_established":"9/15/2011",
+         "families_served":1476,
+         "Longtitude":121.931827,
+         "Latitude":13.259119
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Taytay, Sto. Cruz, Marinduque",
+         "date_established":"3/14/2011",
+         "families_served":1276,
+         "Longtitude":122.080904,
+         "Latitude":13.419048
+      },
+      {
+         "operator":"Municipal Agriculture Office (MAO)",
+         "operator_address":"Brgy. Bulao, Abra de Ilog, Occidental Mindoro",
+         "date_established":"2/1/2012",
+         "families_served":978,
+         "Longtitude":120.757983,
+         "Latitude":13.363832
+      },
+      {
+         "operator":"Municipal LGU through the Municipal Agriculture Office (MAO)",
+         "operator_address":"Brgy. Malbog, BuenaviSto., Marinduque",
+         "date_established":"9/15/2011",
+         "families_served":4489,
+         "Longtitude":121.943611,
+         "Latitude":13.253889
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Landy, Sto. Cruz, Marinduque",
+         "date_established":"3/14/2011",
+         "families_served":2060,
+         "Longtitude":122.007542,
+         "Latitude":13.491317
+      },
+      {
+         "operator":"Municipal Agriculture Office (MAO)",
+         "operator_address":"Brgy. Poblacion, Abra de Ilog, Occidental Mindoro",
+         "date_established":"2/1/2012",
+         "families_served":3480,
+         "Longtitude":120.726501,
+         "Latitude":13.444883
+      },
+      {
+         "operator":"Magsaysay Onion Growers MPC",
+         "operator_address":"Brgy. Poblacion, Magsaysay, Occidental Mindoro",
+         "date_established":"6/28/2010",
+         "families_served":2582,
+         "Longtitude":121.1424,
+         "Latitude":12.310043
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Bayanan, Pola, Oriental Mindoro",
+         "date_established":"9/7/2011",
+         "families_served":2265,
+         "Longtitude":121.443467,
+         "Latitude":13.203994
+      },
+      {
+         "operator":"Calumpit MPC",
+         "operator_address":"Sitio Calumpit, Brgy. San Vicente, Sablayan, Occidental Mindoro",
+         "date_established":"1/1/2012",
+         "families_served":383,
+         "Longtitude":120.831971,
+         "Latitude":12.883463
+      },
+      {
+         "operator":"Samahan ng Maliliit na Mangingisda ng Passi 2",
+         "operator_address":"Brgy. Passi II, Socorro, Oriental Mindoro",
+         "date_established":"3/25/2010",
+         "families_served":363,
+         "Longtitude":120.934024,
+         "Latitude":13.504986
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Balatero, Puerto Galera, Oriental Mindoro",
+         "date_established":"4/1/2010",
+         "families_served":1795,
+         "Longtitude":120.934024,
+         "Latitude":13.504986
+      },
+      {
+         "operator":"Municipal Market Administrator",
+         "operator_address":"Brgy. Poblacion, Pinamalayan, Oriental Mindoro",
+         "date_established":"2/10/2011",
+         "families_served":15928,
+         "Longtitude":121.483394,
+         "Latitude":"13.037971 |"
+      },
+      {
+         "operator":"Murtha Sa Kaunlaran Free Farmers Cooperative",
+         "operator_address":"Brgy. Murtha, San Jose, Occidental Mindoro",
+         "date_established":"5/12/2011",
+         "families_served":2440,
+         "Longtitude":121.345128,
+         "Latitude":13.288029
+      },
+      {
+         "operator":"Aplaya WomenÍs Association",
+         "operator_address":"Sitio Rizal, Brgy. Poblacion, Bulalacao, Oriental Mindoro",
+         "date_established":"6/28/2010",
+         "families_served":1575,
+         "Longtitude":121.33619,
+         "Latitude":12.344397
+      },
+      {
+         "operator":"Biyaheros, Biyaheras Upland Farmers Association",
+         "operator_address":"Brgy. Poblacion 3, Naujan, Oriental Mindoro",
+         "date_established":"Jan-11 (re-opened)",
+         "families_served":5106,
+         "Longtitude":121.298398,
+         "Latitude":13.317714
+      },
+      {
+         "operator":"Tabon Rural Agricultural Development Association",
+         "operator_address":"Brgy. Tabon, Quezon, Palawan",
+         "date_established":"3/1/2012",
+         "families_served":3532,
+         "Longtitude":117.981411,
+         "Latitude":9.279985
+      },
+      {
+         "operator":"Municipal Agriculture Fishery Council/Villa-Flor Vegetable Growers Assn",
+         "operator_address":"Brgy. Poblacion, Puerto Galera, Oriental Mindoro",
+         "date_established":"9/13/2011",
+         "families_served":3190,
+         "Longtitude":120.938444,
+         "Latitude":13.488627
+      },
+      {
+         "operator":"Fruit and Vegetable Growers Association of Gloria",
+         "operator_address":"Brgy. Maligaya, Gloria, Oriental Mindoro",
+         "date_established":"2/10/2010",
+         "families_served":2388,
+         "Longtitude":121.478016,
+         "Latitude":12.970151
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Malatgao, Narra, Palawan",
+         "date_established":"2/21/2012",
+         "families_served":2644,
+         "Longtitude":118.468878,
+         "Latitude":9.314844
+      },
+      {
+         "operator":"BrookeÍs Point Vegetable Growers Association",
+         "operator_address":"Brgy. Poblacion 2, BrookeÍs Point, Palawan",
+         "date_established":"12/8/2010",
+         "families_served":2021,
+         "Longtitude":117.823816,
+         "Latitude":8.777232
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Barcenaga, Naujan, Oriental Mindoro",
+         "date_established":"9/1/2011",
+         "families_served":2440,
+         "Longtitude":121.235504,
+         "Latitude":13.274574
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Tabuan Center, Brgy. Abo-abo, Sofronio Espanola, Palawan",
+         "date_established":"7/2/2005",
+         "families_served":7383,
+         "Longtitude":118.111596,
+         "Latitude":9.15604
+      },
+      {
+         "operator":"Agri-Producers Marketing Association of Puerto Princesa City",
+         "operator_address":"Brgy. San Jose (Poblacion), Puerto Princesa City, Palawan",
+         "date_established":"7/15/2010",
+         "families_served":44010,
+         "Longtitude":118.754782,
+         "Latitude":9.803909
+      },
+      {
+         "operator":"Brgy. Council",
+         "operator_address":"Brgy. Inirawan, Puerto Princesa City, Palawan",
+         "date_established":"1/1/2011",
+         "families_served":7443,
+         "Longtitude":118.713048,
+         "Latitude":9.830565
+      },
+      {
+         "operator":"Life Agri-Venture MPC",
+         "operator_address":"Brgy. Santa Monica, Puerto Princesa City, Palawan",
+         "date_established":"6/14/2008",
+         "families_served":2350,
+         "Longtitude":118.734334,
+         "Latitude":9.794694
+      },
+      {
+         "operator":"Biyaheros, Biyaheras Upland Farmers Association",
+         "operator_address":"Brgy. Poblacion 3, Naujan, Oriental Mindoro",
+         "date_established":"Jan-2012 (re-opened)",
+         "families_served":5106,
+         "Longtitude":121.298398,
+         "Latitude":13.317714
+      },
+      {
+         "operator":"Samahang Maggugulay ng Sofronio Espanola Federation",
+         "operator_address":"Brgy. Pulot Center, Sofronio Espanola, Palawan",
+         "date_established":"12/16/2011",
+         "families_served":2348,
+         "Longtitude":117.990786,
+         "Latitude":8.960673
+      },
+      {
+         "operator":"Roxas Rice Seed Growers",
+         "operator_address":"Roxas Rice Seed Growers",
+         "date_established":"5/11/2012",
+         "families_served":11103,
+         "Longtitude":121.6169,
+         "Latitude":17.103077
+      },
+      {
+         "operator":"Cagbo-aya RIC",
+         "operator_address":"Brgy. Poblacion, San Agustin, Romblon",
+         "date_established":"8/25/2010",
+         "families_served":316,
+         "Longtitude":121.955843,
+         "Latitude":12.063438
+      },
+      {
+         "operator":"Christian Farmers Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Catabayungan, Cabagan, Isabela",
+         "date_established":"1/1/2008",
+         "families_served":409,
+         "Longtitude":121.775497,
+         "Latitude":17.433833
+      },
+      {
+         "operator":"Brgy. Council of Calamagui 1st",
+         "operator_address":"Brgy. Calamagui 1st, Ilagan, Isabela",
+         "date_established":"6/27/2008",
+         "families_served":811,
+         "Longtitude":121.866887,
+         "Latitude":17.139676
+      },
+      {
+         "operator":"Brgy. Council of Minante 1st",
+         "operator_address":"Brgy. Minante 1, Cauayan, Isabela",
+         "date_established":"6/25/2008",
+         "families_served":1381,
+         "Longtitude":121.759438,
+         "Latitude":16.916312
+      },
+      {
+         "operator":"Villa Luna Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Villa Luna, Cauayan, Isabela",
+         "date_established":"5/19/2011",
+         "families_served":3160,
+         "Longtitude":121.814073,
+         "Latitude":16.949753
+      },
+      {
+         "operator":"Brgy. Council of Villa Luz",
+         "operator_address":"Brgy. Villa Luz, Benito Soliven, Isabela",
+         "date_established":"2/27/2009",
+         "families_served":1978,
+         "Longtitude":121.949985,
+         "Latitude":16.983471
+      },
+      {
+         "operator":"Isabela Green Ladies Organization",
+         "operator_address":"Brgy. Yeban Norte, Benito Soliven, Isabela",
+         "date_established":"4/16/2011",
+         "families_served":1600,
+         "Longtitude":121.941228,
+         "Latitude":17.02141
+      },
+      {
+         "operator":"Brgy. Council of Minanga",
+         "operator_address":"Brgy. Minanga, San Mariano, Isabela",
+         "date_established":"2/25/2009",
+         "families_served":8200,
+         "Longtitude":122.016223,
+         "Latitude":16.992796
+      },
+      {
+         "operator":"Brgy. Council of Maranao",
+         "operator_address":"Brgy. Maranao, San Mariano, Isabela",
+         "date_established":"11/26/2010",
+         "families_served":1470,
+         "Longtitude":122.129184,
+         "Latitude":"16.878279 |"
+      },
+      {
+         "operator":"SAMAKABRAI(Samahan ng mga Kababaihan ng Rizal, Alicia, Isabela)",
+         "operator_address":"Brgy. Rizal, Alicia, Isabela",
+         "date_established":"5/18/2011",
+         "families_served":2494,
+         "Longtitude":121.673759,
+         "Latitude":16.834839
+      },
+      {
+         "operator":"Brgy. Council of Bantug Petines",
+         "operator_address":"Brgy. Bantug Petines, Alicia, Isabela",
+         "date_established":"5/18/2010",
+         "families_served":980,
+         "Longtitude":121.599784,
+         "Latitude":16.797312
+      },
+      {
+         "operator":"Brgy. Council of Callao",
+         "operator_address":"Brgy. Callao, Alicia, Isabela",
+         "date_established":"3/10/2009",
+         "families_served":2955,
+         "Longtitude":121.672511,
+         "Latitude":16.791451
+      },
+      {
+         "operator":"Brgy. Council of Villa Marzo",
+         "operator_address":"Brgy. Villa Marzo, Cordon, Isabela",
+         "date_established":"6/9/2010",
+         "families_served":1663,
+         "Longtitude":121.477039,
+         "Latitude":16.705673
+      },
+      {
+         "operator":"Federation of Vegetable Growers",
+         "operator_address":"Brgy. Ambalatungan, Santiago City, Isabela",
+         "date_established":"4/21/2010",
+         "families_served":770,
+         "Longtitude":121.532222,
+         "Latitude":16.693873
+      },
+      {
+         "operator":"Federation of Vegetable Growers",
+         "operator_address":"Brgy. Nabuan, Santiago City, Isabela",
+         "date_established":"4/22/2010",
+         "families_served":3502,
+         "Longtitude":121.578384,
+         "Latitude":16.666355
+      },
+      {
+         "operator":"Brgy. Council of Rang-Ayan",
+         "operator_address":"Brgy. Rang-Ayan, Angandanan, Isabela",
+         "date_established":"3/11/2009",
+         "families_served":2263,
+         "Longtitude":121.795087,
+         "Latitude":16.834648
+      },
+      {
+         "operator":"Brgy. Council of Guam",
+         "operator_address":"Brgy. Guam, San Guillermo, Isabela",
+         "date_established":"3/17/2009",
+         "families_served":733,
+         "Longtitude":121.907486,
+         "Latitude":16.713419
+      },
+      {
+         "operator":"Brgy. Council of Imelda Bliss",
+         "operator_address":"Brgy. Imelda Bliss, Ilagan, Isabela",
+         "date_established":"6/10/2008",
+         "families_served":1338,
+         "Longtitude":121.874357,
+         "Latitude":17.118539
+      },
+      {
+         "operator":"Ilagan Association of Women",
+         "operator_address":"Brgy. Bintacan, Ilagan, Isabela",
+         "date_established":"3/12/2009 (turn-over last 11/8/11)",
+         "families_served":674,
+         "Longtitude":121.974899,
+         "Latitude":17.11352
+      },
+      {
+         "operator":"Brgy. Council of Minanga Norte",
+         "operator_address":"Brgy. Minanga Norte, San Pablo, Isabela",
+         "date_established":"10/20/2008",
+         "families_served":616,
+         "Longtitude":121.781815,
+         "Latitude":17.441875
+      },
+      {
+         "operator":"Brgy. Council of Auitan",
+         "operator_address":"Brgy. Auitan San Pablo, Isabela",
+         "date_established":"10/20/2008",
+         "families_served":685,
+         "Longtitude":121.775497,
+         "Latitude":17.433833
+      },
+      {
+         "operator":"Brgy. Council of Linao East",
+         "operator_address":"Brgy. Linao East,Tuguegarao City",
+         "date_established":"1/11/2008",
+         "families_served":1520,
+         "Longtitude":121.73649,
+         "Latitude":17.62756
+      },
+      {
+         "operator":"Brgy. Council of Pinopoc",
+         "operator_address":"Brgy. Pinopoc, Alcala, Cagayan",
+         "date_established":"6/18/2008",
+         "families_served":507,
+         "Longtitude":121.699594,
+         "Latitude":17.909359
+      },
+      {
+         "operator":"Mauan WomenÍs Marketing Cooperative",
+         "operator_address":"Brgy. Mauan Bambang, Nueva Vizcaya",
+         "date_established":"12/29/2010",
+         "families_served":786,
+         "Longtitude":121.098647,
+         "Latitude":16.407599
+      },
+      {
+         "operator":"Saint Joseph Parish Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Belance, Dupax Del Norte, Nueva Vizcaya",
+         "date_established":"12/28/2010",
+         "families_served":720,
+         "Longtitude":121.23874,
+         "Latitude":16.196156
+      },
+      {
+         "operator":"KINGBIKS FARMERS COOP.",
+         "operator_address":"Brgy. Kinabuan, Dupax Del Sur, Nueva Vizcaya",
+         "date_established":"3/23/2012",
+         "families_served":1050,
+         "Longtitude":121.155742,
+         "Latitude":16.236728
+      },
+      {
+         "operator":"RIC",
+         "operator_address":"Brgy. Centro, Sto. Ana, Cagayan",
+         "date_established":"8/8/2008",
+         "families_served":1000,
+         "Longtitude":122.141812,
+         "Latitude":18.449448
+      },
+      {
+         "operator":"Sto.Domingo Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Sto. Domingo, Baggao, Cagayan",
+         "date_established":"3/25/2010",
+         "families_served":1000,
+         "Longtitude":121.947311,
+         "Latitude":17.914235
+      },
+      {
+         "operator":"Brgy. Council of Imurung",
+         "operator_address":"Brgy. Imurung, Baggao, Cagayan",
+         "date_established":"-",
+         "families_served":1392,
+         "Longtitude":121.9114,
+         "Latitude":17.923901
+      },
+      {
+         "operator":"Brgy. Council of Remus",
+         "operator_address":"Brgy. Remus, Baggao, Cagayan",
+         "date_established":"11/12/2010",
+         "families_served":1229,
+         "Longtitude":121.907432,
+         "Latitude":17.973958
+      },
+      {
+         "operator":"Nangalisan Credit Coopertive(NACRECO)",
+         "operator_address":"Brgy. Nangalisan Bagabag, Nueva Vizcaya",
+         "date_established":"11/25/2010",
+         "families_served":1118,
+         "Longtitude":121.208259,
+         "Latitude":16.63025
+      },
+      {
+         "operator":"Brgy. Council of Ineangan",
+         "operator_address":"Brgy. Ineangan, Dupax Del Norte, Nueva Vizcaya",
+         "date_established":"3/24/2010",
+         "families_served":1076,
+         "Longtitude":121.091641,
+         "Latitude":16.317095
+      },
+      {
+         "operator":"Brgy. Council of Decabacan",
+         "operator_address":"Brgy. Decabacan, Diadi, Nueva Vizcaya",
+         "date_established":"2/18/2012",
+         "families_served":655,
+         "Longtitude":121.340904,
+         "Latitude":16.630271
+      },
+      {
+         "operator":"Rural Improvement Club(RIC)",
+         "operator_address":"Brgy.Poblacion Ambaguio, Nueva Vizcaya",
+         "date_established":"2/27/10 (turn-over to RIC 2/27/12)",
+         "families_served":300,
+         "Longtitude":121.178732,
+         "Latitude":16.516504
+      },
+      {
+         "operator":"Dept.of Agri.Multi-Purpose Coop.(RFU2)",
+         "operator_address":"Brgy. San Gabriel, Tuguegarao City",
+         "date_established":"1/18/2008",
+         "families_served":1654,
+         "Longtitude":121.722261,
+         "Latitude":17.621712
+      },
+      {
+         "operator":"Brgy. Council of Cataggaman",
+         "operator_address":"Brgy. Cataggaman Nuevo, Tuguegarao City",
+         "date_established":"7/18/2008",
+         "families_served":2010,
+         "Longtitude":121.70186,
+         "Latitude":17.599802
+      },
+      {
+         "operator":"Brgy. Council of Gosi Norte",
+         "operator_address":"Brgy. Gosi Norte, Tuguegarao City",
+         "date_established":"8/28/2008",
+         "families_served":584,
+         "Longtitude":121.767985,
+         "Latitude":17.592655
+      },
+      {
+         "operator":"Coop managed Solana west Farmers Coop (SOWESFACO)",
+         "operator_address":"Brgy. Ubong, Western Solana, Cagayan",
+         "date_established":"7/7/2011",
+         "families_served":1353,
+         "Longtitude":121.767985,
+         "Latitude":17.592655
+      },
+      {
+         "operator":"Brgy. Council of Niug Sur",
+         "operator_address":"Brgy. Niug Sur, Sto.Nino, Cagayan",
+         "date_established":"7/7/2011",
+         "families_served":2235,
+         "Longtitude":121.556981,
+         "Latitude":17.840407
+      },
+      {
+         "operator":"Brgy. Council of Tabang",
+         "operator_address":"Brgy. Tabang, Sto.Nino, Cagayan",
+         "date_established":"3/18/2009",
+         "families_served":580,
+         "Longtitude":121.556981,
+         "Latitude":17.840407
+      },
+      {
+         "operator":"RIC",
+         "operator_address":"Brgy. Taggat Norte, Cagayan",
+         "date_established":"3/18/2009",
+         "families_served":2973,
+         "Longtitude":121.050231,
+         "Latitude":18.615155
+      },
+      {
+         "operator":"Municipal Council of Sto.Praxedes",
+         "operator_address":"Brgy. Centro 2, Sto. Praxedes, Cagayan",
+         "date_established":"6/8/2010",
+         "families_served":1292,
+         "Longtitude":121.72489,
+         "Latitude":17.610502
+      },
+      {
+         "operator":"Masisit Fishery Based Multi-purpose Coop",
+         "operator_address":"Brgy. Masisit, Sanchez Mira, Cagayan",
+         "date_established":"4/16/2010",
+         "families_served":1534,
+         "Longtitude":121.220537,
+         "Latitude":18.586343
+      },
+      {
+         "operator":"RIC",
+         "operator_address":"Brgy. Dagueray, Sanchez Mira, Cagayan",
+         "date_established":"4/17/2009",
+         "families_served":950,
+         "Longtitude":121.267891,
+         "Latitude":18.542691
+      },
+      {
+         "operator":"Sto.Nino RIC",
+         "operator_address":"Brgy. Abbariongan, Sto.Nino, Cagayan",
+         "date_established":"7/23/2008",
+         "families_served":344,
+         "Longtitude":121.491318,
+         "Latitude":17.912669
+      },
+      {
+         "operator":"Federation of Vegetable Growers",
+         "operator_address":"Brgy. Cabulay, Santiago City, Isabela",
+         "date_established":"4/23/2010",
+         "families_served":2335,
+         "Longtitude":121.578465,
+         "Latitude":16.736432
+      },
+      {
+         "operator":"Rural Improvement Club",
+         "operator_address":"Brgy. Balintocatoc, Santiago City, Isabela",
+         "date_established":"4/21/2010",
+         "families_served":460,
+         "Longtitude":121.585901,
+         "Latitude":16.614936
+      },
+      {
+         "operator":"Bannawag Norte RIC",
+         "operator_address":"Brgy. Bannawag Norte, Santiago City, Isabela",
+         "date_established":"4/23/2010",
+         "families_served":460,
+         "Longtitude":121.585901,
+         "Latitude":16.614936
+      },
+      {
+         "operator":"Rural Improvement Club",
+         "operator_address":"Brgy. San Jose, Santiago City, Isabela",
+         "date_established":"6/10/2010",
+         "families_served":636,
+         "Longtitude":121.548614,
+         "Latitude":16.692778
+      },
+      {
+         "operator":"Diffun Saranay and Dev't Cooperative (DISADECO)",
+         "operator_address":"Brgy. Andres Bonifacio, Diffun, Quirino",
+         "date_established":"1/18/2011",
+         "families_served":1188,
+         "Longtitude":121.503132,
+         "Latitude":16.594313
+      },
+      {
+         "operator":"Brgy. Council of Dipantan",
+         "operator_address":"Brgy. Dipantan, Nagtipunan, Quirino",
+         "date_established":"6/11/2010",
+         "families_served":3129,
+         "Longtitude":121.647526,
+         "Latitude":16.265557
+      },
+      {
+         "operator":"Brgy. Council of San Bernabe",
+         "operator_address":"Brgy. San Bernabe, Maddela, Quirino",
+         "date_established":"4/19/2010",
+         "families_served":3129,
+         "Longtitude":121.699477,
+         "Latitude":16.368415
+      },
+      {
+         "operator":"Brgy. Council of Ricarte Sur",
+         "operator_address":"Brgy. Ricarte Sur, Diffun, Quirino",
+         "date_established":"7/8/2011",
+         "families_served":463,
+         "Longtitude":121.482751,
+         "Latitude":16.532201
+      },
+      {
+         "operator":"Brgy. Council of Magsaysay",
+         "operator_address":"Brgy. Magsaysay, Diffun, Quirino",
+         "date_established":"6/17/2010",
+         "families_served":710,
+         "Longtitude":121.445001,
+         "Latitude":16.522418
+      },
+      {
+         "operator":"Brgy. Council of Kayuganan",
+         "operator_address":"Brgy. Kayuganan, Uyugan, Batanes",
+         "date_established":"5/28/2011",
+         "families_served":800,
+         "Longtitude":121.937356,
+         "Latitude":20.359425
+      },
+      {
+         "operator":"Ivana WomenÍs Employee,s",
+         "operator_address":"Brgy. Poblacion, Ivana, Batanes",
+         "date_established":"6/26/2011",
+         "families_served":765,
+         "Longtitude":121.930245,
+         "Latitude":20.378059
+      },
+      {
+         "operator":"Municipal Council of Mahatao",
+         "operator_address":"Brgy. Poblacion, Mahatao, Batanes",
+         "date_established":"5/20/2010",
+         "families_served":796,
+         "Longtitude":121.952999,
+         "Latitude":20.405156
+      },
+      {
+         "operator":"Provincial Council of Batanes",
+         "operator_address":"Brgy. Ihubok II, Basco, Batanes",
+         "date_established":"5/19/2010",
+         "families_served":3939,
+         "Longtitude":121.978592,
+         "Latitude":20.439592
+      },
+      {
+         "operator":"Sto. Barbara Sweet Carabao Mango Association",
+         "operator_address":"Brgy. Tebag West, Sto. Barbara, Pangasinan",
+         "date_established":"12/10/2010",
+         "families_served":3751,
+         "Longtitude":120.459497,
+         "Latitude":15.983938
+      },
+      {
+         "operator":"Kababaihan tungo sa Kaunlaran Multi-Purpose Cooperative",
+         "operator_address":"Brgy. Telbang, Alaminos, Pangasinan",
+         "date_established":"3/18/2009",
+         "families_served":1566,
+         "Longtitude":120.052079,
+         "Latitude":16.163991
+      },
+      {
+         "operator":"Santiago Sur Farmers and Fishermen Consumer",
+         "operator_address":"Brgy. Santiago Sur, Caba, La Union",
+         "date_established":"2/2/2011",
+         "families_served":1210,
+         "Longtitude":120.349708,
+         "Latitude":16.422736
+      },
+      {
+         "operator":"Sekdar Tan Ilalo Farmers Cooperative",
+         "operator_address":"Brgy. Pagal Bliss, San Carlos City, Pangasinan",
+         "date_established":"2/10/2011",
+         "families_served":4223,
+         "Longtitude":120.34803,
+         "Latitude":15.931799
+      },
+      {
+         "operator":"Municipal LGU",
+         "operator_address":"Brgy. Poblacion, Binalonan, Pangasinan",
+         "date_established":"3/23/2011",
+         "families_served":54873,
+         "Longtitude":120.591919,
+         "Latitude":16.049588
+      },
+      {
+         "operator":"Brgy. LGU",
+         "operator_address":"Brgy. Amansabina, Mangaldan, Pangasinan",
+         "date_established":"3/12/2010",
+         "families_served":1800,
+         "Longtitude":120.400547,
+         "Latitude":16.068211
+      },
+      {
+         "operator":"Paringao Rural Improvement Club",
+         "operator_address":"Brgy. Paringao, Bauang, La Union",
+         "date_established":"4/1/2011",
+         "families_served":43599,
+         "Longtitude":120.322716,
+         "Latitude":16.566853
+      },
+      {
+         "operator":"Brgy. Council of San Francisco Sur",
+         "operator_address":"Brgy. San Francisco Sur, Sudipen, La Union",
+         "date_established":"11/23/2011",
+         "families_served":1375,
+         "Longtitude":120.454225,
+         "Latitude":16.826704
+      },
+      {
+         "operator":"Filipino Farmers Tigergrass Grower Multi-Purpose",
+         "operator_address":"Brgy. Baay, Bagulin, La Union",
+         "date_established":"-",
+         "families_served":2504,
+         "Longtitude":120.483894,
+         "Latitude":16.582373
+      },
+      {
+         "operator":"Municipal LGU",
+         "operator_address":"Brgy. Poblacion Este, Sto. Cruz, Ilocos Sur",
+         "date_established":"2/8/2011",
+         "families_served":3085,
+         "Longtitude":120.456148,
+         "Latitude":17.083007
+      },
+      {
+         "operator":"San Pablo Multi-Purpose Progreso Cooperative",
+         "operator_address":"No. 20 Brgy. San Pablo, San Nicolas, Ilocos Norte",
+         "date_established":"11/18/2011",
+         "families_served":1387,
+         "Longtitude":120.5923,
+         "Latitude":18.176487
+      },
+      {
+         "operator":"Brgy. Council of Nagbacalan",
+         "operator_address":"No. 22 Nagbacalan, Paoay, Ilocos Norte",
+         "date_established":"12/1/2012",
+         "families_served":2655,
+         "Longtitude":120.527471,
+         "Latitude":18.113539
+      },
+      {
+         "operator":"Parada Rural Improvement Club",
+         "operator_address":"Brgy. San Pablo, Sto. Domingo, Ilocos Sur",
+         "date_established":"7/18/2011",
+         "families_served":1000,
+         "Longtitude":120.410024,
+         "Latitude":17.639451
+      }
+   ]
+}
