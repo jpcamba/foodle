@@ -1,12 +1,11 @@
 {
   "expo": {
-    "name": "team2a",
-    "description": "A very interesting project.",
+    "name": "Foodle",
+    "description": "Team2A's Project Entry for Hack4PH Innovation Challenge.",
     "slug": "team2a",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [
-      "ios",
       "android"
     ],
     "version": "1.0.0",
@@ -24,7 +23,11 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.team2a.foodle",
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.team2a.foodle"
     }
   }
 }

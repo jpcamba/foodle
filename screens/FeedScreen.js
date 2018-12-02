@@ -1,7 +1,8 @@
 import firebase from 'firebase';
 import React, { Component } from 'react';
-import { LayoutAnimation, RefreshControl, StyleSheet } from 'react-native';
-import { Container, Header, Content, List, ListItem, Thumbnail, Text, Left, Body, Right, Button, Icon, Title, Badge } from 'native-base';
+import ModalComponent from '../components/Modal';
+import { LayoutAnimation, StyleSheet } from 'react-native';
+import { Container, Header, Content, List, ListItem, Thumbnail, Text, Left, Body, Right, Button, Icon, Title } from 'native-base';
 
 import FeedPosts from '../constants/FeedPosts';
 
@@ -146,13 +147,12 @@ export default class FeedScreen extends Component {
                 <Text style={{ fontSize: 11, color: 'gray' }}>{user.timestamp}</Text>
               </Body>
               <Right>
-                <Button small rounded light iconLeft>
+                <Button small rounded success iconLeft>
                  <Icon ios='ios-flame' android="md-flame"/>
                   <Text>{user.points}</Text>
                 </Button>
-                <Button small transparent>
-                 <Text>View</Text>
-                </Button>
+                <ModalComponent/>
+
               </Right>
             </ListItem>
           }>
