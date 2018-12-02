@@ -23,6 +23,6 @@ GCP Tools
 
 ### Resources
 
-**Sign In Page Background Image**
-	- [https://www.pexels.com/photo/asia-food-market-nutrition-266343/](https://www.pexels.com/photo/asia-food-market-nutrition-266343/)
-	- Pexels: All photos on Pexels can be used for free for commercial and noncommercial use.
+**Sign In Page Background Image**  
+	- [https://www.pexels.com/photo/asia-food-market-nutrition-266343/](https://www.pexels.com/photo/asia-food-market-nutrition-266343/)  
+	- Pexels: "All photos on Pexels can be used for free for commercial and noncommercial use."
