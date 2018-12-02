@@ -7,17 +7,17 @@ const manila = {
 
 const minPhCoordinates = {
   'latitude': 6.0474,
-  'longitude': 121.0090
+  'longitude': 118.7384
 };
 
 const maxPhCoordinates = {
-  'latitude': 20.4485,
-  'longitude': 121.9708
+  'latitude': 18.5875,
+  'longitude': 125.0388
 };
 
 const randomCoordinates = getRandomCoordinates();
 function getRandomCoordinates() {
-  let randomMaxCount = 50;
+  let randomMaxCount = 25;
   let randomCoordinates = [];
   for (let i = 0; i < randomMaxCount; i++) {
     randomCoordinates.push({
