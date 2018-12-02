@@ -10,6 +10,7 @@ export default class BftMapMarker extends React.Component {
           'longitude':this.props.longitude
         }}
         title={this.props.name}
+        onPress={this.props.onPress}
       />
     );
   }

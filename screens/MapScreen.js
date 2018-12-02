@@ -3,6 +3,7 @@ import MapView from 'react-native-maps';
 import {
   StyleSheet,
   View,
+  Alert
 } from 'react-native';
 import { WebBrowser } from 'expo';
 
@@ -15,7 +16,6 @@ export default class MapScreen extends React.Component {
   };
 
   render() {
-    const {navigate} = this.props.navigation;
     return (
       <View style={styles.container}>
         <MapView
@@ -26,7 +26,7 @@ export default class MapScreen extends React.Component {
             latitudeDelta: Coordinates.defaultDelta.latitude,
             longitudeDelta: Coordinates.defaultDelta.longitude,
           }}
-          onPress={this._openShareFoodForm}
+          onPress={this._openDialog}
         >
         {this._drawMarkers()}
         </MapView>
@@ -34,8 +34,23 @@ export default class MapScreen extends React.Component {
     );
   }
 
+  _openDialog = () => {
+    Alert.alert(
+      'Donations Map',
+      'Choose action for selected place.',
+      [
+        {text: 'Donate', onPress: this._openShareFoodForm},
+        {text: 'View Pledges', onPress: this._viewDonationPledges}
+      ]
+    );
+  };
+
   _openShareFoodForm = () => {
     WebBrowser.openBrowserAsync('https://forms.hack4ph.gov.ph/fr/team2a/SpoonShare/new');
+  };
+
+  _viewDonationPledges = () => {
+    this.props.navigation.navigate('feed');
   };
 
   _drawMarkers() {
@@ -46,6 +61,7 @@ export default class MapScreen extends React.Component {
         latitude={Coordinates.randomCoordinates[i].latitude}
         longitude={Coordinates.randomCoordinates[i].longitude}
         name={Coordinates.randomCoordinates[i].name}
+        onPress={this._openDialog}
       />);
     }
     return markers;
