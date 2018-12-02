@@ -9,6 +9,7 @@ import { WebBrowser } from 'expo';
 
 import BftMapMarker from '../components/Bft/BftMapMarker';
 import Coordinates from '../constants/Coordinates';
+import FeedPosts from '../constants/FeedPosts';
 
 export default class MapScreen extends React.Component {
   static navigationOptions = {
@@ -50,7 +51,7 @@ export default class MapScreen extends React.Component {
   };
 
   _viewDonationPledges = () => {
-    this.props.navigation.navigate('feed');
+    this.props.navigation.navigate('feed', {posts: FeedPosts.locationPosts});
   };
 
   _drawMarkers() {

@@ -1,70 +1,29 @@
 import firebase from 'firebase';
 import React, { Component } from 'react';
-import { LayoutAnimation, RefreshControl } from 'react-native';
+import { LayoutAnimation, RefreshControl, StyleSheet } from 'react-native';
 import { Container, Header, Content, List, ListItem, Thumbnail, Text, Left, Body, Right, Button, Icon, Title, Badge } from 'native-base';
 
-import Fire from '../Fire';
+import FeedPosts from '../constants/FeedPosts';
 
 export default class FeedScreen extends Component {
   static navigationOptions = {
     header: null,
   };
 
+  defaultPosts = FeedPosts.defaultPosts;
+
   state = {
     loading: false,
-    posts: [
-      {
-        name: 'Mr. Rodrigo Roa Duterte',
-        pic: 'https://firebasestorage.googleapis.com/v0/b/hacktolive-8e6ae.appspot.com/o/du30.png?alt=media&token=26fc7597-6424-4ab6-be7c-2ee59152f9d3',
-        comment: 'Created an event on inter-country agricultural talks',
-        subcomment: '',
-        timestamp: '11/26/2018 1:05PM',
-        points: '212',
-      },
-      {
-        name: 'Bryan',
-        pic: 'https://firebasestorage.googleapis.com/v0/b/hacktolive-8e6ae.appspot.com/o/bryan.png?alt=media&token=24f72e5b-86d9-4c00-a85c-37f8412b950e',
-        comment: 'Verified food exchange in Sulu',
-        subcomment: '',
-        timestamp: '11/26/2018 1:05PM',
-        points: '111',
-      },
-      {
-        name: 'Jannieca',
-        pic: 'https://firebasestorage.googleapis.com/v0/b/hacktolive-8e6ae.appspot.com/o/jannieca.png?alt=media&token=1ad43871-b028-4892-a65c-4e6c4e9e7868',
-        comment: 'Posted a video on home planting tutorial',
-        subcomment: '',
-        timestamp: '11/26/2018 2:00PM',
-        points: '198',
-      },
-      {
-        name: 'Buhawi',
-        pic: 'https://firebasestorage.googleapis.com/v0/b/hacktolive-8e6ae.appspot.com/o/buhawi.png?alt=media&token=2412652b-f29e-42a7-81ed-daa3eb8b63b7',
-        comment: 'Donated food for 50 people in Cagayan',
-        subcomment: '',
-        timestamp: '11/26/2018 2:05PM',
-        points: '213',
-      },
-      {
-        name: 'Sarah',
-        pic: 'https://firebasestorage.googleapis.com/v0/b/hacktolive-8e6ae.appspot.com/o/Sarah.png?alt=media&token=d9c6df32-ec59-42ec-9255-7114b4943319',
-        comment: 'Attended event on food security',
-        subcomment: '',
-        timestamp: '11/26/2018 4:45PM',
-        points: '197',
-      },
-      {
-        name: 'Jowil',
-        pic: 'https://firebasestorage.googleapis.com/v0/b/hacktolive-8e6ae.appspot.com/o/Joil.png?alt=media&token=e31dd41a-cf30-4541-a49e-3ad3837e7e89',
-        comment: 'Attended event on food security',
-        subcomment: '',
-        timestamp: '11/26/2018 5:45PM',
-        points: '195',
-      },
-    ],
+    posts: this.defaultPosts
   };
 
   componentDidMount() {
+    // Check if component is rendered with passed props
+    const propsState = this.props.navigation.state;
+    if (propsState && propsState.params) {
+      this.setState({posts: propsState.params.posts});
+    }
+
     this.makeRemoteRequest();
     /* Commented out. But will be used in the future for the authentication feature.
     // Check if we are signed in...
@@ -80,6 +39,13 @@ export default class FeedScreen extends Component {
         }
       });
     }*/
+  }
+
+  componentWillReceiveProps(props) {
+    const propsParams = props.navigation.state.params;
+    if (JSON.stringify(this.state.posts) !== JSON.stringify(propsParams.posts)) {
+      this.setState({posts: propsParams.posts});
+    }
   }
 
   // Call our database and ask for a subset of the user posts
@@ -191,8 +157,31 @@ export default class FeedScreen extends Component {
             </ListItem>
           }>
         </List>
+        {this._arePostsDefault() === false ?
+          <Text style={styles.viewAll} onPress={this._viewAll}>View All Posts</Text> :
+          null
+        }
       </Content>
       </Container> 
     );
   }
+
+  _arePostsDefault() {
+    return FeedPosts.arePostsDefault(this.state.posts)
+  };
+
+  _viewAll = () => {
+    this.setState({posts: this.defaultPosts});
+  };
 }
+
+const styles = StyleSheet.create({
+  viewAll: {
+    alignSelf: 'center',
+    alignItems: 'center',
+    marginTop: 30,
+    marginBottom: 10,
+    color: 'gray',
+    fontSize: 12
+  }
+});
