@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { Modal, TouchableHighlight, View, Alert } from 'react-native';
+import { Modal, TouchableHighlight, View, Alert, StyleSheet, ToastAndroid } from 'react-native';
 import { Text, Button, Icon, Left, InputGroup, Input, Right, Body, Container, Header, Footer, Title, Content } from 'native-base';
 
 export default class ModalComponent extends Component {
@@ -38,12 +38,13 @@ export default class ModalComponent extends Component {
                 </Header>
 
                 <Content>
-                    <InputGroup borderType="underline">
+                    <InputGroup style={styles.messageInput} borderType="underline">
                         <Icon ios="ios-text" android="md-text" style={{color:'#384850'}}/>
                         <Input placeholder="Place your message here.." />
                     </InputGroup>
-                    <Button block onPress={() => {  this.setModalVisible(false); }}>
+                    <Button style={styles.sendButton} block onPress={this._onMessageSend}>
                         <Icon ios='ios-send' android="md-send"/>  
+                        <Text>Send</Text>
                     </Button>
                 </Content>
 
@@ -53,7 +54,7 @@ export default class ModalComponent extends Component {
             </Container>
         </Modal>
 
-        <Button  rounded light   onPress={() => {
+        <Button style={styles.messageButton} rounded light onPress={() => {
             this.setModalVisible(true);
           }}>
             <Icon ios='ios-text' android="md-text"/>  
@@ -62,4 +63,26 @@ export default class ModalComponent extends Component {
       </View>
     );
   }
+
+  _onMessageSend = () => {
+    this.setModalVisible(false);
+    ToastAndroid.show('Message sent!', ToastAndroid.SHORT);
+  };
 }
+
+const styles = StyleSheet.create({
+  messageInput: {
+    alignSelf: 'center',
+    alignItems: 'center',
+    height: 300,
+    margin: 20
+  },
+  sendButton: {
+    alignSelf: 'center',
+    alignItems: 'center',
+    width: 150
+  },
+  messageButton: {
+    marginTop: 5
+  }
+});
